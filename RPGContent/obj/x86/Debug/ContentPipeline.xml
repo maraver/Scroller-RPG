@@ -1,0 +1,469 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Warrior\Warrior.png</Source>
+      <Name>Warrior\Warrior</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb</Output>
+      <Time>2013-05-06T19:59:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Warrior\Warrior_Crouch.png</Source>
+      <Name>Warrior\Warrior_Crouch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb</Output>
+      <Time>2013-05-06T19:59:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Warrior\Warrior_Block.png</Source>
+      <Name>Warrior\Warrior_Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb</Output>
+      <Time>2013-05-06T19:59:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\cave1_background.png</Source>
+      <Name>Terrain\cave1_background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb</Output>
+      <Time>2013-02-06T11:57:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Warrior\Warrior_Move.png</Source>
+      <Name>Warrior\Warrior_Move</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb</Output>
+      <Time>2013-05-06T19:57:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fireball\Fireball.png</Source>
+      <Name>Fireball\Fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb</Output>
+      <Time>2013-02-26T12:11:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Warlock\Warlock_Attack.png</Source>
+      <Name>Warlock\Warlock_Attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb</Output>
+      <Time>2013-02-27T12:47:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Warlock\Warlock_Crouch.png</Source>
+      <Name>Warlock\Warlock_Crouch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb</Output>
+      <Time>2013-03-10T18:46:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Warlock\Warlock_Move.png</Source>
+      <Name>Warlock\Warlock_Move</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb</Output>
+      <Time>2013-02-27T12:47:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Warlock\Warlock_Block.png</Source>
+      <Name>Warlock\Warlock_Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb</Output>
+      <Time>2013-02-27T12:47:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Warlock\Warlock.png</Source>
+      <Name>Warlock\Warlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb</Output>
+      <Time>2013-02-27T12:47:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Warrior\Warrior_Attack.png</Source>
+      <Name>Warrior\Warrior_Attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb</Output>
+      <Time>2013-05-06T19:59:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Wraith\Wraith_Dead.png</Source>
+      <Name>Wraith\Wraith_Dead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Dead.xnb</Output>
+      <Time>2013-05-11T23:52:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenuBackground.png</Source>
+      <Name>MainMenuBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\MainMenuBackground.xnb</Output>
+      <Time>2013-02-01T12:40:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Wraith\Wraith.png</Source>
+      <Name>Wraith\Wraith</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith.xnb</Output>
+      <Time>2013-02-07T09:53:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Wraith\Wraith_Attack.png</Source>
+      <Name>Wraith\Wraith_Attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Attack.xnb</Output>
+      <Time>2013-02-08T12:15:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Wraith\Wraith_Crouch.png</Source>
+      <Name>Wraith\Wraith_Crouch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch.xnb</Output>
+      <Time>2013-03-10T18:48:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Wraith\Wraith_Move.png</Source>
+      <Name>Wraith\Wraith_Move</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Move.xnb</Output>
+      <Time>2013-02-08T12:20:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Wraith\Wraith_Block.png</Source>
+      <Name>Wraith\Wraith_Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Block.xnb</Output>
+      <Time>2013-02-08T12:26:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Iceball\Iceball.png</Source>
+      <Name>Iceball\Iceball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball.xnb</Output>
+      <Time>2013-03-09T17:08:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Scurge_Shot\Scurge_Shot.png</Source>
+      <Name>Scurge_Shot\Scurge_Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot.xnb</Output>
+      <Time>2013-03-09T17:11:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Warrior\Warrior_CrouchAttack.png</Source>
+      <Name>Warrior\Warrior_CrouchAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_CrouchAttack.xnb</Output>
+      <Time>2013-05-06T19:59:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Wraith\Wraith_CrouchAttack.png</Source>
+      <Name>Wraith\Wraith_CrouchAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_CrouchAttack.xnb</Output>
+      <Time>2013-03-10T18:47:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Warlock\Warlock_CrouchAttack.png</Source>
+      <Name>Warlock\Warlock_CrouchAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_CrouchAttack.xnb</Output>
+      <Time>2013-03-10T18:46:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\Blocking.png</Source>
+      <Name>GUI\Blocking</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\GUI\Blocking.xnb</Output>
+      <Time>2013-03-12T17:45:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\Crouching.png</Source>
+      <Name>GUI\Crouching</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\GUI\Crouching.xnb</Output>
+      <Time>2013-03-12T17:49:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\Standing.png</Source>
+      <Name>GUI\Standing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\GUI\Standing.xnb</Output>
+      <Time>2013-03-12T17:49:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\Inventory.jpg</Source>
+      <Name>GUI\Inventory</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\GUI\Inventory.xnb</Output>
+      <Time>2013-03-21T13:40:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Warrior\Warrior_Dead.png</Source>
+      <Name>Warrior\Warrior_Dead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Dead.xnb</Output>
+      <Time>2013-05-01T15:22:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Warlock\Warlock_Dead.png</Source>
+      <Name>Warlock\Warlock_Dead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Dead.xnb</Output>
+      <Time>2013-05-01T15:22:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\terrain.png</Source>
+      <Name>Terrain\terrain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Terrain\terrain.xnb</Output>
+      <Time>2013-11-09T12:58:05.0913306-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Items.png</Source>
+      <Name>Items\Items</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Items\Items.xnb</Output>
+      <Time>2013-05-11T22:02:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Armour\Armour.png</Source>
+      <Name>Armour\Armour</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Armour\Armour.xnb</Output>
+      <Time>2013-05-06T19:39:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Skeleton_King\Skeleton_King.png</Source>
+      <Name>Skeleton_King\Skeleton_King</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King.xnb</Output>
+      <Time>2013-05-07T20:12:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Skeleton_King\Skeleton_King_Attack.png</Source>
+      <Name>Skeleton_King\Skeleton_King_Attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Attack.xnb</Output>
+      <Time>2013-05-07T20:12:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Skeleton_King\Skeleton_King_Block.png</Source>
+      <Name>Skeleton_King\Skeleton_King_Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Block.xnb</Output>
+      <Time>2013-05-07T20:18:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Skeleton_King\Skeleton_King_Crouch.png</Source>
+      <Name>Skeleton_King\Skeleton_King_Crouch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Crouch.xnb</Output>
+      <Time>2013-05-07T20:20:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Skeleton_King\Skeleton_King_CrouchAttack.png</Source>
+      <Name>Skeleton_King\Skeleton_King_CrouchAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_CrouchAttack.xnb</Output>
+      <Time>2013-05-07T20:19:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Skeleton_King\Skeleton_King_Move.png</Source>
+      <Name>Skeleton_King\Skeleton_King_Move</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Move.xnb</Output>
+      <Time>2013-05-07T20:15:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Skeleton_King\Skeleton_King_Dead.png</Source>
+      <Name>Skeleton_King\Skeleton_King_Dead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Dead.xnb</Output>
+      <Time>2013-05-07T20:47:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Raise_Death\Raise_Death.png</Source>
+      <Name>Raise_Death\Raise_Death</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Raise_Death\Raise_Death.xnb</Output>
+      <Time>2013-05-07T21:14:50-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Courier.spritefont</Source>
+      <Name>Courier</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Courier.xnb</Output>
+      <Time>2013-12-16T19:49:31.6093568-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Courier_Small.spritefont</Source>
+      <Name>Courier_Small</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Courier_Small.xnb</Output>
+      <Time>2013-12-16T20:02:41.2765232-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fireball\Fireball_Icon.png</Source>
+      <Name>Fireball\Fireball_Icon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball_Icon.xnb</Output>
+      <Time>2013-12-16T22:37:53.047126-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Iceball\Iceball_Icon.png</Source>
+      <Name>Iceball\Iceball_Icon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball_Icon.xnb</Output>
+      <Time>2013-03-09T17:08:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Raise_Death\Raise_Death_Icon.png</Source>
+      <Name>Raise_Death\Raise_Death_Icon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Raise_Death\Raise_Death_Icon.xnb</Output>
+      <Time>2013-05-07T21:14:50-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Scurge_Shot\Scurge_Shot_Icon.png</Source>
+      <Name>Scurge_Shot\Scurge_Shot_Icon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot_Icon.xnb</Output>
+      <Time>2013-03-09T17:11:46-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPGContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPGContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-02-04T19:41:51.6731356-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

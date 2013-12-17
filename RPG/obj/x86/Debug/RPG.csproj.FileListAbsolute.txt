@@ -1,0 +1,1491 @@
+F:\projects\RPG\RPG\RPG\bin\x86\Debug\RPG.exe
+F:\projects\RPG\RPG\RPG\bin\x86\Debug\RPG.pdb
+F:\projects\RPG\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\projects\RPG\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\projects\RPG\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\projects\RPG\RPG\RPG\bin\x86\Debug\Content\archer.xnb
+F:\projects\RPG\RPG\RPG\bin\x86\Debug\Content\blob.xnb
+F:\projects\RPG\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+F:\projects\RPG\RPG\RPG\bin\x86\Debug\Content\stone_wall.xnb
+G:\projects\RPG v0.2\RPG\RPG\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
+G:\projects\RPG v0.2\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\projects\RPG v0.2\RPG\RPG\obj\x86\Debug\RPG.exe
+G:\projects\RPG v0.2\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+G:\projects\RPG v0.2\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+G:\projects\RPG v0.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+G:\projects\RPG v0.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+G:\projects\RPG v0.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+G:\projects\RPG v0.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Shield.xnb
+G:\projects\RPG v0.2\RPG\RPG\bin\x86\Debug\RPG.exe
+G:\projects\RPG v0.2\RPG\RPG\bin\x86\Debug\RPG.pdb
+G:\projects\RPG v0.2\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\projects\RPG v0.2\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+F:\projects\RPG v0.2\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+F:\projects\RPG v0.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+F:\projects\RPG v0.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+F:\projects\RPG v0.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+F:\projects\RPG v0.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Shield.xnb
+F:\projects\RPG v0.2\RPG\RPG\bin\x86\Debug\RPG.exe
+F:\projects\RPG v0.2\RPG\RPG\bin\x86\Debug\RPG.pdb
+F:\projects\RPG v0.2\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v0.2\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\projects\RPG v0.2\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\projects\RPG v0.2\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\projects\RPG v0.2\RPG\RPG\bin\x86\Debug\Content\Arial_Large.xnb
+G:\projects\RPG v0.3\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+G:\projects\RPG v0.3\RPG\RPG\bin\x86\Debug\Content\Arial_Large.xnb
+G:\projects\RPG v0.3\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+G:\projects\RPG v0.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+G:\projects\RPG v0.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+G:\projects\RPG v0.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+G:\projects\RPG v0.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Shield.xnb
+G:\projects\RPG v0.3\RPG\RPG\bin\x86\Debug\RPG.exe
+G:\projects\RPG v0.3\RPG\RPG\bin\x86\Debug\RPG.pdb
+G:\projects\RPG v0.3\RPG\RPG\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
+G:\projects\RPG v0.3\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\projects\RPG v0.3\RPG\RPG\obj\x86\Debug\RPG.exe
+G:\projects\RPG v0.3\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\projects\RPG v0.3\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\projects\RPG v0.3\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\projects\RPG v0.3\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+F:\projects\RPG v0.3\RPG\RPG\bin\x86\Debug\Content\Arial_Large.xnb
+F:\projects\RPG v0.3\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+F:\projects\RPG v0.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+F:\projects\RPG v0.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+F:\projects\RPG v0.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+F:\projects\RPG v0.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Shield.xnb
+F:\projects\RPG v0.3\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+F:\projects\RPG v0.3\RPG\RPG\bin\x86\Debug\RPG.exe
+F:\projects\RPG v0.3\RPG\RPG\bin\x86\Debug\RPG.pdb
+F:\projects\RPG v0.3\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v0.3\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\projects\RPG v0.4\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+F:\projects\RPG v0.4\RPG\RPG\bin\x86\Debug\Content\Arial_Large.xnb
+F:\projects\RPG v0.4\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+F:\projects\RPG v0.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+F:\projects\RPG v0.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+F:\projects\RPG v0.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Shield.xnb
+F:\projects\RPG v0.4\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+F:\projects\RPG v0.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+F:\projects\RPG v0.4\RPG\RPG\bin\x86\Debug\RPG.exe
+F:\projects\RPG v0.4\RPG\RPG\bin\x86\Debug\RPG.pdb
+F:\projects\RPG v0.4\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v0.4\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\projects\RPG v0.4\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\projects\RPG v0.4\RPG\RPG\obj\x86\Debug\RPG.pdb
+G:\projects\RPG v0.4\RPG\RPG\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
+G:\projects\RPG v0.4\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\projects\RPG v0.4\RPG\RPG\obj\x86\Debug\RPG.exe
+G:\projects\RPG v0.4\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+G:\projects\RPG v0.4\RPG\RPG\bin\x86\Debug\Content\Arial_Large.xnb
+G:\projects\RPG v0.4\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+G:\projects\RPG v0.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+G:\projects\RPG v0.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+G:\projects\RPG v0.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Shield.xnb
+G:\projects\RPG v0.4\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+G:\projects\RPG v0.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+G:\projects\RPG v0.4\RPG\RPG\bin\x86\Debug\RPG.exe
+G:\projects\RPG v0.4\RPG\RPG\bin\x86\Debug\RPG.pdb
+G:\projects\RPG v0.4\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\projects\RPG v0.5\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v0.5\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\projects\RPG v0.5\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\projects\RPG v0.5\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+F:\projects\RPG v0.5\RPG\RPG\bin\x86\Debug\Content\Arial_Large.xnb
+F:\projects\RPG v0.5\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+F:\projects\RPG v0.5\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+F:\projects\RPG v0.5\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+F:\projects\RPG v0.5\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Shield.xnb
+F:\projects\RPG v0.5\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+F:\projects\RPG v0.5\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+F:\projects\RPG v0.5\RPG\RPG\bin\x86\Debug\RPG.exe
+F:\projects\RPG v0.5\RPG\RPG\bin\x86\Debug\RPG.pdb
+F:\projects\RPG v0.5\RPG\RPG\obj\x86\Debug\RPG.pdb
+G:\projects\RPG v0.5\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+G:\projects\RPG v0.5\RPG\RPG\bin\x86\Debug\Content\Arial_Large.xnb
+G:\projects\RPG v0.5\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+G:\projects\RPG v0.5\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+G:\projects\RPG v0.5\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+G:\projects\RPG v0.5\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Shield.xnb
+G:\projects\RPG v0.5\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+G:\projects\RPG v0.5\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+G:\projects\RPG v0.5\RPG\RPG\bin\x86\Debug\RPG.exe
+G:\projects\RPG v0.5\RPG\RPG\bin\x86\Debug\RPG.pdb
+G:\projects\RPG v0.5\RPG\RPG\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
+G:\projects\RPG v0.5\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\projects\RPG v0.5\RPG\RPG\obj\x86\Debug\RPG.exe
+G:\projects\RPG v0.5\RPG\RPG\obj\x86\Debug\RPG.pdb
+G:\projects\RPG v0.6\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+G:\projects\RPG v0.6\RPG\RPG\bin\x86\Debug\Content\Arial_Large.xnb
+G:\projects\RPG v0.6\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+G:\projects\RPG v0.6\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+G:\projects\RPG v0.6\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+G:\projects\RPG v0.6\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Shield.xnb
+G:\projects\RPG v0.6\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+G:\projects\RPG v0.6\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+G:\projects\RPG v0.6\RPG\RPG\bin\x86\Debug\RPG.exe
+G:\projects\RPG v0.6\RPG\RPG\bin\x86\Debug\RPG.pdb
+G:\projects\RPG v0.6\RPG\RPG\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
+G:\projects\RPG v0.6\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\projects\RPG v0.6\RPG\RPG\obj\x86\Debug\RPG.exe
+G:\projects\RPG v0.6\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\projects\RPG v0.7\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+F:\projects\RPG v0.7\RPG\RPG\bin\x86\Debug\Content\Arial_Large.xnb
+F:\projects\RPG v0.7\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+F:\projects\RPG v0.7\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+F:\projects\RPG v0.7\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+F:\projects\RPG v0.7\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+F:\projects\RPG v0.7\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+F:\projects\RPG v0.7\RPG\RPG\bin\x86\Debug\RPG.exe
+F:\projects\RPG v0.7\RPG\RPG\bin\x86\Debug\RPG.pdb
+F:\projects\RPG v0.7\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v0.7\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\projects\RPG v0.7\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\projects\RPG v0.7\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\projects\RPG v0.7\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+F:\projects\RPG v0.8\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v0.8\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\projects\RPG v0.8\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\projects\RPG v0.8\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\projects\RPG v0.8\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+F:\projects\RPG v0.8\RPG\RPG\bin\x86\Debug\Content\Arial_Large.xnb
+F:\projects\RPG v0.8\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+F:\projects\RPG v0.8\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+F:\projects\RPG v0.8\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+F:\projects\RPG v0.8\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+F:\projects\RPG v0.8\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+F:\projects\RPG v0.8\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+F:\projects\RPG v0.8\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Dead.xnb
+F:\projects\RPG v0.8\RPG\RPG\bin\x86\Debug\RPG.exe
+F:\projects\RPG v0.8\RPG\RPG\bin\x86\Debug\RPG.pdb
+F:\projects\RPG v0.9\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+F:\projects\RPG v0.9\RPG\RPG\bin\x86\Debug\Content\Arial_Large.xnb
+F:\projects\RPG v0.9\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+F:\projects\RPG v0.9\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+F:\projects\RPG v0.9\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+F:\projects\RPG v0.9\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+F:\projects\RPG v0.9\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+F:\projects\RPG v0.9\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+F:\projects\RPG v0.9\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Dead.xnb
+F:\projects\RPG v0.9\RPG\RPG\bin\x86\Debug\RPG.exe
+F:\projects\RPG v0.9\RPG\RPG\bin\x86\Debug\RPG.pdb
+F:\projects\RPG v0.9\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v0.9\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\projects\RPG v0.9\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\projects\RPG v0.9\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\projects\RPG v0.9\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+F:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+F:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Arial_Large.xnb
+F:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+F:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+F:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+F:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+F:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+F:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+F:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+F:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\RPG.exe
+F:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\RPG.pdb
+F:\projects\RPG v1.0\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v1.0\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\projects\RPG v1.0\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\projects\RPG v1.0\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+F:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+F:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+F:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+F:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+F:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+F:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Default_Dead.xnb
+G:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+G:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Arial_Large.xnb
+G:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+G:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+G:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+G:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+G:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+G:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+G:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+G:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+G:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+G:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+G:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+G:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+G:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+G:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\Content\Default_Dead.xnb
+G:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\RPG.exe
+G:\projects\RPG v1.0\RPG\RPG\bin\x86\Debug\RPG.pdb
+G:\projects\RPG v1.0\RPG\RPG\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
+G:\projects\RPG v1.0\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\projects\RPG v1.0\RPG\RPG\obj\x86\Debug\RPG.exe
+G:\projects\RPG v1.0\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\projects\RPG v1.1\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+F:\projects\RPG v1.1\RPG\RPG\bin\x86\Debug\Content\Arial_Large.xnb
+F:\projects\RPG v1.1\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+F:\projects\RPG v1.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+F:\projects\RPG v1.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+F:\projects\RPG v1.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+F:\projects\RPG v1.1\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+F:\projects\RPG v1.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+F:\projects\RPG v1.1\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+F:\projects\RPG v1.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+F:\projects\RPG v1.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+F:\projects\RPG v1.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+F:\projects\RPG v1.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+F:\projects\RPG v1.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+F:\projects\RPG v1.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+F:\projects\RPG v1.1\RPG\RPG\bin\x86\Debug\Content\Default_Dead.xnb
+F:\projects\RPG v1.1\RPG\RPG\bin\x86\Debug\RPG.exe
+F:\projects\RPG v1.1\RPG\RPG\bin\x86\Debug\RPG.pdb
+F:\projects\RPG v1.1\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v1.1\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\projects\RPG v1.1\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\projects\RPG v1.1\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\projects\RPG v1.2\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v1.2\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\projects\RPG v1.2\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\projects\RPG v1.2\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+F:\projects\RPG v1.2\RPG\RPG\bin\x86\Debug\Content\Arial_Large.xnb
+F:\projects\RPG v1.2\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+F:\projects\RPG v1.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+F:\projects\RPG v1.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+F:\projects\RPG v1.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+F:\projects\RPG v1.2\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+F:\projects\RPG v1.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+F:\projects\RPG v1.2\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+F:\projects\RPG v1.2\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+F:\projects\RPG v1.2\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+F:\projects\RPG v1.2\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+F:\projects\RPG v1.2\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+F:\projects\RPG v1.2\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+F:\projects\RPG v1.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+F:\projects\RPG v1.2\RPG\RPG\bin\x86\Debug\Content\Default_Dead.xnb
+F:\projects\RPG v1.2\RPG\RPG\bin\x86\Debug\RPG.exe
+F:\projects\RPG v1.2\RPG\RPG\bin\x86\Debug\RPG.pdb
+F:\projects\RPG v1.2\RPG\RPG\obj\x86\Debug\RPG.pdb
+G:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+G:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Arial_Large.xnb
+G:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+G:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+G:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+G:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+G:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+G:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+G:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+G:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+G:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+G:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+G:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+G:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+G:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+G:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Default_Dead.xnb
+G:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\RPG.exe
+G:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\RPG.pdb
+G:\projects\RPG v1.3\RPG\RPG\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
+G:\projects\RPG v1.3\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\projects\RPG v1.3\RPG\RPG\obj\x86\Debug\RPG.exe
+G:\projects\RPG v1.3\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+F:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Arial_Large.xnb
+F:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+F:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+F:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+F:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+F:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+F:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+F:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+F:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+F:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+F:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+F:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+F:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+F:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+F:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\Content\Default_Dead.xnb
+F:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\RPG.exe
+F:\projects\RPG v1.3\RPG\RPG\bin\x86\Debug\RPG.pdb
+F:\projects\RPG v1.3\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v1.3\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\projects\RPG v1.3\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\projects\RPG v1.3\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+F:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Arial_Large.xnb
+F:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+F:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+F:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+F:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+F:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+F:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+F:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+F:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+F:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+F:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+F:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+F:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+F:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+F:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Default_Dead.xnb
+F:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\RPG.exe
+F:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\RPG.pdb
+F:\projects\RPG v1.4\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v1.4\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\projects\RPG v1.4\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\projects\RPG v1.4\RPG\RPG\obj\x86\Debug\RPG.pdb
+G:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+G:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+G:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+G:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+G:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+G:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+G:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+G:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+G:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+G:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+G:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+G:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+G:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+G:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+G:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Default_Dead.xnb
+G:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\RPG.exe
+G:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\RPG.pdb
+G:\projects\RPG v1.4\RPG\RPG\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
+G:\projects\RPG v1.4\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\projects\RPG v1.4\RPG\RPG\obj\x86\Debug\RPG.exe
+G:\projects\RPG v1.4\RPG\RPG\obj\x86\Debug\RPG.pdb
+G:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\MainMenuBackground.xnb
+G:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Arial_Small.xnb
+G:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith.xnb
+G:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Attack.xnb
+G:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch.xnb
+G:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Move.xnb
+G:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Block.xnb
+G:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball.xnb
+G:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot.xnb
+G:\projects\RPG v1.4\RPG\RPG\bin\x86\Debug\Content\Terrain\door.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\Arial_Small.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\Default_Dead.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\MainMenuBackground.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Attack.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Move.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Block.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\Terrain\door.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\RPG.exe
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\RPG.pdb
+G:\projects\RPG v2.0\RPG\RPG\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
+G:\projects\RPG v2.0\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\projects\RPG v2.0\RPG\RPG\obj\x86\Debug\RPG.exe
+G:\projects\RPG v2.0\RPG\RPG\obj\x86\Debug\RPG.pdb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch-Attack.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch-Attack.xnb
+G:\projects\RPG v2.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch-Attack.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Arial_Small.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Default_Dead.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\MainMenuBackground.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Attack.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Move.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Block.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Terrain\door.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch-Attack.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch-Attack.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch-Attack.xnb
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\RPG.exe
+F:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\RPG.pdb
+F:\projects\RPG v2.1\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v2.1\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\projects\RPG v2.1\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\projects\RPG v2.1\RPG\RPG\obj\x86\Debug\RPG.pdb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Arial_Small.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Default_Dead.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\MainMenuBackground.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Attack.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Move.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Block.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Terrain\door.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch-Attack.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch-Attack.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch-Attack.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\GUI\Blocking.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\GUI\Crouching.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\Content\GUI\Standing.xnb
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\RPG.exe
+G:\projects\RPG v2.1\RPG\RPG\bin\x86\Debug\RPG.pdb
+G:\projects\RPG v2.1\RPG\RPG\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
+G:\projects\RPG v2.1\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\projects\RPG v2.1\RPG\RPG\obj\x86\Debug\RPG.exe
+G:\projects\RPG v2.1\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\Arial_Small.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\Default_Dead.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\MainMenuBackground.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Attack.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Move.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Block.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\Terrain\door.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch-Attack.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch-Attack.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch-Attack.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\GUI\Blocking.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\GUI\Crouching.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\Content\GUI\Standing.xnb
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\RPG.exe
+F:\projects\RPG v2.2\RPG\RPG\bin\x86\Debug\RPG.pdb
+F:\projects\RPG v2.2\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v2.2\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\projects\RPG v2.2\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\projects\RPG v2.2\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Arial_Small.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Default_Dead.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\MainMenuBackground.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Attack.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Move.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Block.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch-Attack.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch-Attack.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch-Attack.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\GUI\Blocking.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\GUI\Crouching.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\GUI\Standing.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Terrain\door.xnb
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\RPG.exe
+F:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\RPG.pdb
+F:\projects\RPG v2.3\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v2.3\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\projects\RPG v2.3\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\projects\RPG v2.3\RPG\RPG\obj\x86\Debug\RPG.pdb
+G:\projects\RPG v2.3\RPG\RPG\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
+G:\projects\RPG v2.3\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\projects\RPG v2.3\RPG\RPG\obj\x86\Debug\RPG.exe
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Arial_Small.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Default_Dead.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\MainMenuBackground.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Attack.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Move.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Block.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch-Attack.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch-Attack.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch-Attack.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\GUI\Blocking.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\GUI\Crouching.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\GUI\Standing.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\Content\Terrain\door.xnb
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\RPG.exe
+G:\projects\RPG v2.3\RPG\RPG\bin\x86\Debug\RPG.pdb
+G:\projects\RPG v2.3\RPG\RPG\obj\x86\Debug\RPG.pdb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Arial_Small.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Default_Dead.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\MainMenuBackground.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Attack.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Move.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Block.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch-Attack.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch-Attack.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch-Attack.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\GUI\Blocking.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\GUI\Crouching.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\GUI\Standing.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Terrain\door.xnb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\RPG.exe
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\RPG.pdb
+G:\projects\RPG v2.4\RPG\RPG\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
+G:\projects\RPG v2.4\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\projects\RPG v2.4\RPG\RPG\obj\x86\Debug\RPG.exe
+G:\projects\RPG v2.4\RPG\RPG\obj\x86\Debug\RPG.pdb
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\RPG.exe.manifest
+G:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\RPG.application
+G:\projects\RPG v2.4\RPG\RPG\obj\x86\Debug\RPG.exe.manifest
+G:\projects\RPG v2.4\RPG\RPG\obj\x86\Debug\RPG.application
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Arial_Small.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Default_Dead.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\MainMenuBackground.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Attack.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Move.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Block.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch-Attack.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch-Attack.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch-Attack.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\GUI\Blocking.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\GUI\Crouching.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\GUI\Standing.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Terrain\door.xnb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\RPG.exe.manifest
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\RPG.application
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\RPG.exe
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\RPG.pdb
+F:\projects\RPG v2.4\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v2.4\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\projects\RPG v2.4\RPG\RPG\obj\x86\Debug\RPG.exe.manifest
+F:\projects\RPG v2.4\RPG\RPG\obj\x86\Debug\RPG.application
+F:\projects\RPG v2.4\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\projects\RPG v2.4\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\projects\RPG v2.4\RPG\RPG\bin\x86\Debug\Content\Terrain\stone2_wall.xnb
+F:\projects\RPG v2.5\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v2.5\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\projects\RPG v2.5\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Arial_Small.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Default_Dead.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\MainMenuBackground.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Attack.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Move.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Block.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch-Attack.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch-Attack.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch-Attack.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\GUI\Blocking.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\GUI\Crouching.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\GUI\Standing.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Terrain\door.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\Terrain\stone2_wall.xnb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\RPG.exe.manifest
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\RPG.application
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\RPG.exe
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\RPG.pdb
+F:\projects\RPG v2.5\RPG\RPG\obj\x86\Debug\RPG.exe.manifest
+F:\projects\RPG v2.5\RPG\RPG\obj\x86\Debug\RPG.application
+F:\projects\RPG v2.5\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\projects\RPG v2.5\RPG\RPG\bin\x86\Debug\Content\GUI\Inventory.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Arial_Small.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Default_Dead.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\MainMenuBackground.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Attack.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Move.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Block.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch-Attack.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch-Attack.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch-Attack.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\GUI\Blocking.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\GUI\Crouching.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\GUI\Standing.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Terrain\door.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\Terrain\stone2_wall.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\Content\GUI\Inventory.xnb
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\RPG.exe.manifest
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\RPG.application
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\RPG.exe
+F:\projects\RPG v2.6\RPG\RPG\bin\x86\Debug\RPG.pdb
+F:\projects\RPG v2.6\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v2.6\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\projects\RPG v2.6\RPG\RPG\obj\x86\Debug\RPG.exe.manifest
+F:\projects\RPG v2.6\RPG\RPG\obj\x86\Debug\RPG.application
+F:\projects\RPG v2.6\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\projects\RPG v2.6\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Arial_Small.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Default_Dead.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\MainMenuBackground.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Attack.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Move.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Block.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch-Attack.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch-Attack.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch-Attack.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\GUI\Blocking.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\GUI\Crouching.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\GUI\Standing.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Terrain\door.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\Terrain\stone2_wall.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\Content\GUI\Inventory.xnb
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\RPG.exe.manifest
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\RPG.application
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\RPG.exe
+F:\projects\RPG v2.7\RPG\RPG\bin\x86\Debug\RPG.pdb
+F:\projects\RPG v2.7\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v2.7\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\projects\RPG v2.7\RPG\RPG\obj\x86\Debug\RPG.exe.manifest
+F:\projects\RPG v2.7\RPG\RPG\obj\x86\Debug\RPG.application
+F:\projects\RPG v2.7\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\projects\RPG v2.7\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Arial_Small.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\MainMenuBackground.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Attack.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Move.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Block.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\GUI\Blocking.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\GUI\Crouching.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\GUI\Standing.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Terrain\door.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Terrain\stone2_wall.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\GUI\Inventory.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\RPG.exe.manifest
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\RPG.application
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\RPG.exe
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\RPG.pdb
+F:\projects\RPG v2.8\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v2.8\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\projects\RPG v2.8\RPG\RPG\obj\x86\Debug\RPG.exe.manifest
+F:\projects\RPG v2.8\RPG\RPG\obj\x86\Debug\RPG.application
+F:\projects\RPG v2.8\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\projects\RPG v2.8\RPG\RPG\obj\x86\Debug\RPG.pdb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Arial_Small.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\MainMenuBackground.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Attack.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Move.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Block.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\GUI\Blocking.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\GUI\Crouching.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\GUI\Standing.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Terrain\door.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Terrain\stone2_wall.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\GUI\Inventory.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\RPG.exe.manifest
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\RPG.application
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\RPG.exe
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\RPG.pdb
+G:\projects\RPG v2.8\RPG\RPG\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
+G:\projects\RPG v2.8\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\projects\RPG v2.8\RPG\RPG\obj\x86\Debug\RPG.exe.manifest
+G:\projects\RPG v2.8\RPG\RPG\obj\x86\Debug\RPG.application
+G:\projects\RPG v2.8\RPG\RPG\obj\x86\Debug\RPG.exe
+G:\projects\RPG v2.8\RPG\RPG\obj\x86\Debug\RPG.pdb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Dead.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Dead.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Dead.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_CrouchAttack.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_CrouchAttack.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_CrouchAttack.xnb
+G:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Items\Key.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Dead.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_CrouchAttack.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_CrouchAttack.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_CrouchAttack.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Dead.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Dead.xnb
+F:\projects\RPG v2.8\RPG\RPG\bin\x86\Debug\Content\Items\Key.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Arial_Small.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Terrain\stone_wall.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Dead.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\MainMenuBackground.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Attack.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Move.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Block.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_CrouchAttack.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_CrouchAttack.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_CrouchAttack.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\GUI\Blocking.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\GUI\Crouching.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\GUI\Standing.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Terrain\door.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Terrain\stone2_wall.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\GUI\Inventory.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Dead.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Dead.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Items\Key.xnb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\RPG.exe.manifest
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\RPG.application
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\RPG.exe
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\bin\x86\Debug\RPG.pdb
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\obj\x86\Debug\RPG.exe.manifest
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\obj\x86\Debug\RPG.application
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\obj\x86\Debug\RPG.exe
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPG\obj\x86\Debug\RPG.pdb
+G:\projects\RPG v2.9\RPG\RPG\obj\x86\Debug\RPG.exe
+G:\projects\RPG v2.9\RPG\RPG\obj\x86\Debug\RPG.pdb
+G:\projects\RPG v2.9\RPG\RPG\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
+G:\projects\RPG v2.9\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Arial_Small.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Dead.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\MainMenuBackground.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Attack.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Move.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Block.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_CrouchAttack.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_CrouchAttack.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_CrouchAttack.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\GUI\Blocking.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\GUI\Crouching.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\GUI\Standing.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\GUI\Inventory.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Dead.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Dead.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Terrain\terrain.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Items\Items.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\RPG.exe.manifest
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\RPG.application
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\RPG.exe
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\RPG.pdb
+G:\projects\RPG v2.9\RPG\RPG\obj\x86\Debug\RPG.exe.manifest
+G:\projects\RPG v2.9\RPG\RPG\obj\x86\Debug\RPG.application
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Arial_Small.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Dead.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\MainMenuBackground.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Attack.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Move.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Block.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_CrouchAttack.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_CrouchAttack.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_CrouchAttack.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\GUI\Blocking.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\GUI\Crouching.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\GUI\Standing.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\GUI\Inventory.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Dead.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Dead.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Terrain\terrain.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Items\Items.xnb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\RPG.exe.manifest
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\RPG.application
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\RPG.exe
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\RPG.pdb
+F:\projects\RPG v2.9\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v2.9\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\projects\RPG v2.9\RPG\RPG\obj\x86\Debug\RPG.exe.manifest
+F:\projects\RPG v2.9\RPG\RPG\obj\x86\Debug\RPG.application
+F:\projects\RPG v2.9\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\projects\RPG v2.9\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Armour\Armour.xnb
+G:\projects\RPG v2.9\RPG\RPG\bin\x86\Debug\Content\Armour\Armour.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Arial_Small.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Dead.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\MainMenuBackground.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Attack.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Move.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Block.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_CrouchAttack.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_CrouchAttack.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_CrouchAttack.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\GUI\Blocking.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\GUI\Crouching.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\GUI\Standing.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\GUI\Inventory.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Dead.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Dead.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Terrain\terrain.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Items\Items.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\Content\Armour\Armour.xnb
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\RPG.exe.manifest
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\RPG.application
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\RPG.exe
+G:\projects\RPG v3.0\RPG\RPG\bin\x86\Debug\RPG.pdb
+G:\projects\RPG v3.0\RPG\RPG\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
+G:\projects\RPG v3.0\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\projects\RPG v3.0\RPG\RPG\obj\x86\Debug\RPG.exe.manifest
+G:\projects\RPG v3.0\RPG\RPG\obj\x86\Debug\RPG.application
+G:\projects\RPG v3.0\RPG\RPG\obj\x86\Debug\RPG.exe
+G:\projects\RPG v3.0\RPG\RPG\obj\x86\Debug\RPG.pdb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Arial_Small.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Dead.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\MainMenuBackground.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Attack.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Move.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Block.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_CrouchAttack.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_CrouchAttack.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_CrouchAttack.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\GUI\Blocking.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\GUI\Crouching.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\GUI\Standing.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\GUI\Inventory.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Dead.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Dead.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Terrain\terrain.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Items\Items.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Armour\Armour.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\RPG.exe.manifest
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\RPG.application
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\RPG.exe
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\RPG.pdb
+G:\projects\RPG v3.1\RPG\RPG\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
+G:\projects\RPG v3.1\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\projects\RPG v3.1\RPG\RPG\obj\x86\Debug\RPG.exe.manifest
+G:\projects\RPG v3.1\RPG\RPG\obj\x86\Debug\RPG.application
+G:\projects\RPG v3.1\RPG\RPG\obj\x86\Debug\RPG.exe
+G:\projects\RPG v3.1\RPG\RPG\obj\x86\Debug\RPG.pdb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Attack.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Block.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Crouch.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_CrouchAttack.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Move.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Dead.xnb
+G:\projects\RPG v3.1\RPG\RPG\bin\x86\Debug\Content\Raise_Death\Raise_Death.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Arial_Small.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Dead.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\MainMenuBackground.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Attack.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Move.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Block.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_CrouchAttack.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_CrouchAttack.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_CrouchAttack.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\GUI\Blocking.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\GUI\Crouching.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\GUI\Standing.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\GUI\Inventory.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Dead.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Dead.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Terrain\terrain.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Items\Items.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Armour\Armour.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Attack.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Block.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Crouch.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_CrouchAttack.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Move.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Dead.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Raise_Death\Raise_Death.xnb
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\RPG.exe.manifest
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\RPG.application
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\RPG.exe
+F:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\RPG.pdb
+F:\projects\RPG v3.2\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v3.2\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\projects\RPG v3.2\RPG\RPG\obj\x86\Debug\RPG.exe.manifest
+F:\projects\RPG v3.2\RPG\RPG\obj\x86\Debug\RPG.application
+F:\projects\RPG v3.2\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\projects\RPG v3.2\RPG\RPG\obj\x86\Debug\RPG.pdb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Arial_Small.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Dead.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\MainMenuBackground.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Attack.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Move.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Block.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_CrouchAttack.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_CrouchAttack.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_CrouchAttack.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\GUI\Blocking.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\GUI\Crouching.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\GUI\Standing.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\GUI\Inventory.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Dead.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Dead.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Terrain\terrain.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Items\Items.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Armour\Armour.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Attack.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Block.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Crouch.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_CrouchAttack.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Move.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Dead.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\Content\Raise_Death\Raise_Death.xnb
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\RPG.exe.manifest
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\RPG.application
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\RPG.exe
+G:\projects\RPG v3.2\RPG\RPG\bin\x86\Debug\RPG.pdb
+G:\projects\RPG v3.2\RPG\RPG\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
+G:\projects\RPG v3.2\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\projects\RPG v3.2\RPG\RPG\obj\x86\Debug\RPG.exe.manifest
+G:\projects\RPG v3.2\RPG\RPG\obj\x86\Debug\RPG.application
+G:\projects\RPG v3.2\RPG\RPG\obj\x86\Debug\RPG.exe
+G:\projects\RPG v3.2\RPG\RPG\obj\x86\Debug\RPG.pdb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Arial_Small.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Dead.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\MainMenuBackground.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Attack.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Move.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Block.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_CrouchAttack.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_CrouchAttack.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_CrouchAttack.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\GUI\Blocking.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\GUI\Crouching.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\GUI\Standing.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\GUI\Inventory.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Dead.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Dead.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Terrain\terrain.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Items\Items.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Armour\Armour.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Attack.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Block.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Crouch.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_CrouchAttack.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Move.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Dead.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Raise_Death\Raise_Death.xnb
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\RPG.exe.manifest
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\RPG.application
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\RPG.exe
+F:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\RPG.pdb
+F:\projects\RPG v3.3\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v3.3\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\projects\RPG v3.3\RPG\RPG\obj\x86\Debug\RPG.exe.manifest
+F:\projects\RPG v3.3\RPG\RPG\obj\x86\Debug\RPG.application
+F:\projects\RPG v3.3\RPG\RPG\obj\x86\Debug\RPG.exe
+F:\projects\RPG v3.3\RPG\RPG\obj\x86\Debug\RPG.pdb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Arial_Small.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Dead.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\MainMenuBackground.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Attack.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Move.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Block.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_CrouchAttack.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_CrouchAttack.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_CrouchAttack.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\GUI\Blocking.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\GUI\Crouching.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\GUI\Standing.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\GUI\Inventory.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Dead.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Dead.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Terrain\terrain.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Items\Items.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Armour\Armour.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Attack.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Block.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Crouch.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_CrouchAttack.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Move.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Dead.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\Content\Raise_Death\Raise_Death.xnb
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\RPG.exe.manifest
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\RPG.application
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\RPG.exe
+G:\projects\RPG v3.3\RPG\RPG\bin\x86\Debug\RPG.pdb
+G:\projects\RPG v3.3\RPG\RPG\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
+G:\projects\RPG v3.3\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\projects\RPG v3.3\RPG\RPG\obj\x86\Debug\RPG.exe.manifest
+G:\projects\RPG v3.3\RPG\RPG\obj\x86\Debug\RPG.application
+G:\projects\RPG v3.3\RPG\RPG\obj\x86\Debug\RPG.exe
+G:\projects\RPG v3.3\RPG\RPG\obj\x86\Debug\RPG.pdb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Arial.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Arial_Small.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Dead.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\MainMenuBackground.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Attack.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Move.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Block.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_CrouchAttack.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_CrouchAttack.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_CrouchAttack.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\GUI\Blocking.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\GUI\Crouching.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\GUI\Standing.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\GUI\Inventory.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Dead.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Dead.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Terrain\terrain.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Items\Items.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Armour\Armour.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Attack.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Block.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Crouch.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_CrouchAttack.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Move.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Dead.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\Content\Raise_Death\Raise_Death.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\RPG.exe.manifest
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\RPG.application
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\RPG.exe
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\bin\x86\Debug\RPG.pdb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\obj\x86\Debug\RPG.exe.manifest
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\obj\x86\Debug\RPG.application
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\obj\x86\Debug\RPG.exe
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPG\obj\x86\Debug\RPG.pdb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\obj\x86\Debug\RPG.exe
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\obj\x86\Debug\RPG.pdb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Dead.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\MainMenuBackground.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Attack.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Move.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Block.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_CrouchAttack.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_CrouchAttack.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_CrouchAttack.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\GUI\Blocking.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\GUI\Crouching.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\GUI\Standing.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\GUI\Inventory.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Dead.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Dead.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Terrain\terrain.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Items\Items.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Armour\Armour.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Attack.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Block.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Crouch.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_CrouchAttack.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Move.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Dead.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Raise_Death\Raise_Death.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\RPG.exe.manifest
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\RPG.application
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\RPG.exe
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\RPG.pdb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\obj\x86\Debug\RPG.exe.manifest
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\obj\x86\Debug\RPG.application
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Courier.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPG\bin\x86\Debug\Content\Courier_Small.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Crouch.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Block.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Terrain\cave1_background.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Move.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Attack.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Crouch.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Move.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Block.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Attack.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Dead.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\MainMenuBackground.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Attack.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Crouch.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Move.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_Block.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_CrouchAttack.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Wraith\Wraith_CrouchAttack.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_CrouchAttack.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\GUI\Blocking.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\GUI\Crouching.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\GUI\Standing.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\GUI\Inventory.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warrior\Warrior_Dead.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Warlock\Warlock_Dead.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Terrain\terrain.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Items\Items.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Armour\Armour.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Attack.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Block.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Crouch.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_CrouchAttack.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Move.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Skeleton_King\Skeleton_King_Dead.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Raise_Death\Raise_Death.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Courier.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Courier_Small.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\RPG.exe.manifest
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\RPG.application
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\RPG.exe
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\RPG.pdb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\obj\x86\Debug\RPG.exe.manifest
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\obj\x86\Debug\RPG.application
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\obj\x86\Debug\RPG.exe
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\obj\x86\Debug\RPG.pdb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Fireball\Fireball_Icon.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Iceball\Iceball_Icon.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Raise_Death\Raise_Death_Icon.xnb
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPG\bin\x86\Debug\Content\Scurge_Shot\Scurge_Shot_Icon.xnb

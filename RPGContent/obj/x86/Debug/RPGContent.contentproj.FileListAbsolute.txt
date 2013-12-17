@@ -1,0 +1,46 @@
+F:\projects\RPG\RPG\RPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\projects\RPG v0.2\RPG\RPGContent\obj\x86\Debug\RPGContent.contentprojResolveAssemblyReference.cache
+F:\projects\RPG v0.2\RPG\RPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\projects\RPG v0.3\RPG\RPGContent\obj\x86\Debug\RPGContent.contentprojResolveAssemblyReference.cache
+F:\projects\RPG v0.3\RPG\RPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v0.4\RPG\RPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\projects\RPG v0.4\RPG\RPGContent\obj\x86\Debug\RPGContent.contentprojResolveAssemblyReference.cache
+F:\projects\RPG v0.5\RPG\RPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\projects\RPG v0.5\RPG\RPGContent\obj\x86\Debug\RPGContent.contentprojResolveAssemblyReference.cache
+G:\projects\RPG v0.6\RPG\RPGContent\obj\x86\Debug\RPGContent.contentprojResolveAssemblyReference.cache
+F:\projects\RPG v0.7\RPG\RPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v0.8\RPG\RPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v0.9\RPG\RPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v1.0\RPG\RPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\projects\RPG v1.0\RPG\RPGContent\obj\x86\Debug\RPGContent.contentprojResolveAssemblyReference.cache
+F:\projects\RPG v1.1\RPG\RPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v1.2\RPG\RPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\projects\RPG v1.3\RPG\RPGContent\obj\x86\Debug\RPGContent.contentprojResolveAssemblyReference.cache
+F:\projects\RPG v1.3\RPG\RPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v1.4\RPG\RPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\projects\RPG v1.4\RPG\RPGContent\obj\x86\Debug\RPGContent.contentprojResolveAssemblyReference.cache
+G:\projects\RPG v2.0\RPG\RPGContent\obj\x86\Debug\RPGContent.contentprojResolveAssemblyReference.cache
+F:\projects\RPG v2.1\RPG\RPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\projects\RPG v2.1\RPG\RPGContent\obj\x86\Debug\RPGContent.contentprojResolveAssemblyReference.cache
+F:\projects\RPG v2.2\RPG\RPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v2.3\RPG\RPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\projects\RPG v2.3\RPG\RPGContent\obj\x86\Debug\RPGContent.contentprojResolveAssemblyReference.cache
+G:\projects\RPG v2.4\RPG\RPGContent\obj\x86\Debug\RPGContent.contentprojResolveAssemblyReference.cache
+F:\projects\RPG v2.4\RPG\RPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v2.5\RPG\RPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v2.6\RPG\RPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v2.7\RPG\RPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\RPG v2.8\RPG\RPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\projects\RPG v2.8\RPG\RPGContent\obj\x86\Debug\RPGContent.contentprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\Games\Programming\C#\RPG v2.9\RPG\RPGContent\obj\x86\Debug\RPGContent.contentprojResolveAssemblyReference.cache
+G:\projects\RPG v2.9\RPG\RPGContent\obj\x86\Debug\RPGContent.contentprojResolveAssemblyReference.cache
+F:\projects\RPG v2.9\RPG\RPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\projects\RPG v3.0\RPG\RPGContent\obj\x86\Debug\RPGContent.contentprojResolveAssemblyReference.cache
+G:\projects\RPG v3.1\RPG\RPGContent\obj\x86\Debug\RPGContent.contentprojResolveAssemblyReference.cache
+F:\projects\RPG v3.2\RPG\RPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\projects\RPG v3.2\RPG\RPGContent\obj\x86\Debug\RPGContent.contentprojResolveAssemblyReference.cache
+F:\projects\RPG v3.3\RPG\RPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\projects\RPG v3.3\RPG\RPGContent\obj\x86\Debug\RPGContent.contentprojResolveAssemblyReference.cache
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v3.4\RPG\RPGContent\obj\x86\Debug\RPGContent.contentprojResolveAssemblyReference.cache
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.0\RPG\RPGContent\obj\x86\Debug\RPGContent.contentprojResolveAssemblyReference.cache
+C:\Users\John\Google Drive\Other\Programming\C#\RPG v4.1\RPG\RPGContent\obj\x86\Debug\RPGContent.contentprojResolveAssemblyReference.cache
