@@ -88,10 +88,10 @@ namespace RPG.Items
         public string ToString(int nameSize) {
             if (Item != null) {
                 string useName = Item.Name;
-                if (useName.Length > nameSize - 3)
-                    useName = useName.Substring(0, nameSize-3) + "...";
+                if (useName.Length > nameSize)
+                    useName = useName.Substring(0, nameSize);
                 // Mult > 0 then is reducing multiplier (-)
-                return useName + " (" + ((Mult > 0) ? "-" : "+") + Math.Abs(Mult).ToString("0.00") + ")";
+                return useName + "(" + ((Mult > 0) ? "-" : "+") + Math.Abs(Mult).ToString("0.00") + ")";
             } else {
                 return "";
             }
