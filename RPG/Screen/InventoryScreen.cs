@@ -148,17 +148,14 @@ namespace RPG.Screen
             Vector2 pos = new Vector2(110, 25);
             SpriteBatch.DrawString(ScreenManager.Small_Font, "Hp: " + player.stats.Hp + " (" + (player.stats.HpPercent * 100).ToString("0") + "%)", pos, Color.White);
             pos.Y += 24;
-            SpriteBatch.DrawString(ScreenManager.Small_Font, player.equipment.Head.ToString(14), pos, Color.White);
+            SpriteBatch.DrawString(ScreenManager.Small_Font, player.equipment.Head.ToString(10), pos, Color.White);
             pos.Y += 24;
-            SpriteBatch.DrawString(ScreenManager.Small_Font, player.equipment.Body.ToString(14), pos, Color.White);
+            SpriteBatch.DrawString(ScreenManager.Small_Font, player.equipment.Body.ToString(10), pos, Color.White);
             pos.Y += 24;
-            SpriteBatch.DrawString(ScreenManager.Small_Font, player.equipment.Legs.ToString(14), pos, Color.White);
+            SpriteBatch.DrawString(ScreenManager.Small_Font, player.equipment.Legs.ToString(10), pos, Color.White);
 
             drawHover(100, 25, 160, 16, "Hit points");
             String head = player.equipment.Head.ToString(), body = player.equipment.Body.ToString(), legs = player.equipment.Legs.ToString();
-            if (head != "") drawHover(100, 49, 160, 16, head);
-            if (body != "") drawHover(100, 73, 160, 16, body);
-            if (legs != "") drawHover(370, 97, 160, 16, legs);
 
             // Draw armour display
             Rectangle armourRect = new Rectangle(SpriteBatch.GraphicsDevice.Viewport.Width/2 - TileMap.SPRITE_SIZE/2, 
