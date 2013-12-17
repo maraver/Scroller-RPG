@@ -78,9 +78,13 @@ namespace RPG.Entities
 
         public override void draw(SpriteBatch spriteBatch, Point offset, TimeSpan elapsed) {
             // Draw hp bar
-            Rectangle hpRect = new Rectangle(2, 2, 100, 16);
-            hpRect.Width = (int) Math.Round(hpRect.Width * stats.HpPercent) + 1;
-            spriteBatch.Draw(ScreenManager.WhiteRect, hpRect, Color.Green);
+            if (stats.Hp > 0) {
+                Rectangle hpRect = new Rectangle(2, 2, 100, 16);
+                hpRect.Width = (int) Math.Round(hpRect.Width * stats.HpPercent) + 1;
+                spriteBatch.Draw(ScreenManager.WhiteRect, hpRect, Color.Green);
+            } else {
+                spriteBatch.DrawString(ScreenManager.Small_Font, "Dead", new Vector2(12, 0), Color.White);
+            }
 
             // Draw level
             spriteBatch.DrawString(ScreenManager.Small_Font, "Lvl " + stats.Level + " " + Name, new Vector2(105, 0), Color.White);
