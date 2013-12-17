@@ -36,7 +36,7 @@ namespace RPG.Tiles
                 return rect.Left;
             } else if (b.Right >= rect.Left && b.Left <= rect.Right) {
                 int top = getTop(b, facing);
-                if (Math.Abs(top - b.Bottom) < 5) {
+                if (b.Bottom >= top + 1) {
                     b.moveY(top - b.Bottom);
                 }
             }
@@ -49,7 +49,7 @@ namespace RPG.Tiles
                 return rect.Right;
             } else if (b.Right >= rect.Left && b.Left <= rect.Right) {
                 int top = getTop(b, facing);
-                if (Math.Abs(top - b.Bottom) < 5) {
+                if (b.Bottom >= top + 1) {
                     b.moveY(top - b.Bottom);
                 }
             }
