@@ -9,7 +9,11 @@ namespace RPG.Tiles
 {
     public class TileBlockList : List<TileBlock>
     {
-        public new void Add(TileBlock block, Func<GameScreen, TileBlock, bool> blockEvent = null) {
+        public new void Add(TileBlock block) {
+            this.Add(block, null);
+        }
+
+        public void Add(TileBlock block, Func<GameScreen, TileBlock, bool> blockEvent = null) {
             base.Add(block.Clone().addEvent(blockEvent));
         }
     }
