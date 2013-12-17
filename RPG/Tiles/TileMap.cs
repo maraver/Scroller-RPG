@@ -12,6 +12,7 @@ using RPG.Entities;
 using RPG.Helpers;
 using RPG.Items;
 using RPG.GameObjects;
+using RPG.Structures;
 
 namespace RPG.Tiles
 {
@@ -51,6 +52,7 @@ namespace RPG.Tiles
             Attacks = new List<Attack>();
             HitTexts = new List<HitText>();
 
+            Structure structure = new Structure();
             switch (type) {
             case MapType.Ramp: 
                 for (int w = 0; w < width; w++) {
@@ -88,7 +90,9 @@ namespace RPG.Tiles
             default: // Hall Way
                 for (int w = 0; w < width; w++)
                     for (int h = 0; h < height; h++) {
-                        if (h == height - 2 && w == 0 && oldMap != null) {
+                        if (structure.placeAt(w, h)) {
+                            Map.Add(structure.getTileBlockAt(w, h));
+                        } else if (h == height - 2 && w == 0 && oldMap != null) {
                             Map.Add(TileBlock.DOOR, TileBlockEvent.MapGoBack);
                         } else if (h == height - 2 && w == width - 1) {
                             Map.Add(TileBlock.DOOR, TileBlockEvent.NewMainRoom);
@@ -97,6 +101,8 @@ namespace RPG.Tiles
                             Map.Add(TileBlock.STONE_WALL);
                         } else if (w > 3 && w < width - 2 && h == height - 2 && ScreenManager.Rand.Next(20) == 0) {
                             Map.Add(TileBlock.STONE2_WALL);
+                        } else if (w > 2 && w < width - 4 && h == height - 2 &&  ScreenManager.Rand.Next(150) == 0) {
+                            Map.Add(structure.start(w, h, StructureId.Ramp));
                         } else if (w > 2 && h == height - 2 && ScreenManager.Rand.Next(150) == 0) {
                             Map.Add(TileBlock.HPPOOL);
                         } else if (w > 2 && h == height - 2 && ScreenManager.Rand.Next(150) == 0) {
@@ -371,11 +377,12 @@ namespace RPG.Tiles
                     // Console.Write("  On floor:");
                     BoundingRect objRect = getRect(x, y);
 
-                    int top = objRect.getTop(bounds, facing);
                     if (e != null && objRect.isBasePriority(rect)) {
                         objRect.onStand(e);
-                        return true;
-                    } else if (!onFloor && rect.Bottom >= top && objRect.collides(rect)) {
+                    }
+
+                    int top = objRect.getTop(bounds, facing);
+                    if (!onFloor && rect.Bottom >= top && objRect.collides(rect)) {
                         if (e != null) objRect.onStand(e);
                         onFloor = true;
                     }

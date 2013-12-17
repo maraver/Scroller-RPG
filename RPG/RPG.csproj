@@ -135,6 +135,8 @@
     <Compile Include="Helpers\MathHelp.cs" />
     <Compile Include="Items\ItemEvents.cs" />
     <Compile Include="Items\ItemId.cs" />
+    <Compile Include="Structure\Structure.cs" />
+    <Compile Include="Structure\StructureId.cs" />
     <Compile Include="Tiles\BoundingRect.cs" />
     <Compile Include="Tiles\BoundingTriangle.cs" />
     <Compile Include="Tiles\TileBlock.cs" />
