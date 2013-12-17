@@ -46,7 +46,7 @@ namespace RPG.GameObjects
                 timeDelay -= tElapsed.Milliseconds;
 
                 if (height < HEIGHT) {
-                    height += 1;
+                    height += 2;
                 }
             } else if (height > -2) {
                 height -= 1;
@@ -69,6 +69,9 @@ namespace RPG.GameObjects
                 if (spells[i] != AttackSpriteId.None) {
                     spriteBatch.Draw(GameScreen.sprAttacks_Icons[spells[i]], spellRect, Color.White);
                 }
+
+                spriteBatch.DrawString(ScreenManager.Small_Font, "" + (i + 1), new Vector2(spellRect.Right - 10, spellRect.Bottom - 13), Color.Black);
+                spriteBatch.DrawString(ScreenManager.Small_Font, "" + (i + 1), new Vector2(spellRect.Right - 11, spellRect.Bottom - 14), Color.White);
 
                 // Selected spell
                 if (i == this.selected) {
