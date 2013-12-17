@@ -49,6 +49,22 @@ namespace RPG.Screen
             this.setUpdate(val);
         }
 
+        protected void drawBlur() {
+            // End normal
+            SpriteBatch.End();
+
+            // Draw additive
+            SpriteBatch.Begin(SpriteSortMode.BackToFront, BlendState.Additive);
+
+            SpriteBatch.Draw(ScreenManager.WhiteRect, new Rectangle(0, 0, getScreenManager().GraphicsDevice.Viewport.Width, getScreenManager().GraphicsDevice.Viewport.Height), ScreenManager.AdditiveColor);
+
+            // End additive
+            SpriteBatch.End();
+
+            // Restart normal
+            SpriteBatch.Begin();
+        }
+
         public abstract void Update(GameTime gTime);
         public abstract void Draw(GameTime gTime);
         public abstract void LoadContent();

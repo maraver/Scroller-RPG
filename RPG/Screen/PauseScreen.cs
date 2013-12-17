@@ -47,16 +47,9 @@ namespace RPG.Screen
         }
 
         public override void Draw(GameTime gTime) {
-            SpriteBatch.End(); // End normal, drawing different
-
-            SpriteBatch.Begin(SpriteSortMode.BackToFront, BlendState.Additive); // Draw additive
-
-            SpriteBatch.Draw(ScreenManager.WhiteRect, new Rectangle(0, 0,
-                getScreenManager().GraphicsDevice.Viewport.Width, getScreenManager().GraphicsDevice.Viewport.Height), ScreenManager.AdditiveColor);
+            this.drawBlur();
 
             base.Draw(gTime); // Draw menu items
-            SpriteBatch.End(); // End additive
-            SpriteBatch.Begin(); // Restart normal
         }
     }
 }

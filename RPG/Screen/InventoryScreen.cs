@@ -139,17 +139,7 @@ namespace RPG.Screen
         }
 
         public override void Draw(GameTime gTime) {
-            SpriteBatch.End(); // End normal, drawing different
-
-            SpriteBatch.Begin(SpriteSortMode.BackToFront, BlendState.Additive); // Draw additive
-
-            SpriteBatch.Draw(ScreenManager.WhiteRect, new Rectangle(0, 0,
-                getScreenManager().GraphicsDevice.Viewport.Width, getScreenManager().GraphicsDevice.Viewport.Height), ScreenManager.AdditiveColor);
-
-            SpriteBatch.End();
-
-            // Draw the menu normal
-            SpriteBatch.Begin();
+            this.drawBlur();
 
             Rectangle bgRect = new Rectangle(85, 10, 460, 140);
             SpriteBatch.Draw(background, bgRect, Color.White);
@@ -178,6 +168,7 @@ namespace RPG.Screen
             if (player.equipment.Body.Stand != null) SpriteBatch.Draw(player.equipment.Body.Stand, armourRect, Color.White);
             if (player.equipment.Legs.Stand != null) SpriteBatch.Draw(player.equipment.Legs.Stand, armourRect, Color.White);
 
+            // Draw inventory items
             for (int i=0; i<player.inventorySize(); i++) {
                 Item item = player.getItemAt(i);
                 itemBlocks[i].Item = item;
