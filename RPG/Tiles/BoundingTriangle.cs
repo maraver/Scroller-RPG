@@ -14,6 +14,7 @@ namespace RPG.Tiles
     public class BoundingTriangle : BoundingRect
     {
         protected float slope;
+
         public BoundingTriangle(int x, int y, int width, int height, float slope) : base(x, y, width, height) {
             this.slope = slope;
         }
@@ -36,7 +37,7 @@ namespace RPG.Tiles
                 return rect.Left;
             } else if (b.Right >= rect.Left && b.Left <= rect.Right) {
                 int top = getTop(b, facing);
-                if (b.Bottom >= top + 1) {
+                if (b.Bottom >= top + 1 || b.canTerrainSnap()) {
                     b.moveY(top - b.Bottom);
                 }
             }
@@ -49,7 +50,7 @@ namespace RPG.Tiles
                 return rect.Right;
             } else if (b.Right >= rect.Left && b.Left <= rect.Right) {
                 int top = getTop(b, facing);
-                if (b.Bottom >= top + 1) {
+                if (b.Bottom >= top + 1 || b.canTerrainSnap()) {
                     b.moveY(top - b.Bottom);
                 }
             }

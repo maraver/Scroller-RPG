@@ -9,6 +9,7 @@ using System.Runtime.Serialization.Formatters.Binary;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework;
 
+using RPG.Entities.AI;
 using RPG.Sprites;
 using RPG.Screen;
 using RPG.Helpers;
@@ -35,31 +36,29 @@ namespace RPG.Entities
         public const float BASE_BODY_MULT = 1.0f;
         public const float BASE_LEGS_MULT = 0.75f;
 
+        public const float MAX_SPEED = 1;
+
         public static Color HIT_BOX_COLOR = Color.Lerp(Color.Red, Color.Transparent, 0.8f);
 
-        public GameScreen gameScreen;
-
         // Entity States
-        public readonly string Name;
+        public readonly int XPValue;
+        public string Name { get; protected set; }
 
-        public readonly Equipment equipment;
-        public readonly EntityStats stats;
-        public readonly PossibleDrop[] drops;
+        protected PossibleDrop[] Drops;
+        protected EntityAIList AI;
 
-        protected readonly Func<Entity, TileMap, bool> AI;
+        public readonly Equipment Equipment;
+        public readonly EntityStats Stats;
 
-        protected readonly Dictionary<string, bool> props;
-
-        public readonly int XP_VALUE;
-        private readonly float MAX_SPEED;
+        public readonly Dictionary<string, bool> Properties;
 
         // Display States
-        private Direction facing;
         public bool freeMoveForward;
 
         public EntityState State { get; private set; }
         public bool moved { get; private set; }
 
+        private Direction facing;
         private float speedMultiplier;
         protected int jumpDelay, attackDelay;
 
@@ -70,83 +69,74 @@ namespace RPG.Entities
         protected Vector2 msVel;
 
         public Entity(SerializationInfo info, StreamingContext cntxt) : base(info, cntxt) {
-            XP_VALUE = (int) info.GetValue("Entity_XPValue", typeof(int));
-            MAX_SPEED = (float) info.GetValue("Entity_MaxSpeed", typeof(float));
-
-            AI = (Func<Entity, TileMap, bool>) info.GetValue("Entity_AI", typeof(Func<Entity, TileMap, bool>));
-            Name = (string) info.GetValue("Entity_Name", typeof(string));
-            equipment = (Equipment) info.GetValue("Entity_Equipment", typeof(Equipment));
-            stats = (EntityStats) info.GetValue("Entity_Stats", typeof(EntityStats));
-            facing = (Direction) info.GetValue("Entity_Facing", typeof(Direction));
-            msVel = (Vector2) info.GetValue("Entity_MsVel", typeof(Vector2));
-            bounds = (EntityBounds) info.GetValue("Entity_EBounds", typeof(EntityBounds));
-            State = (EntityState) info.GetValue("Entity_State", typeof(EntityState));
-            props = (Dictionary<string, bool>) info.GetValue("Entity_Props", typeof(Dictionary<string, bool>));
+            Name = (string) info.GetValue("Name", typeof(string));
+            Equipment = (Equipment) info.GetValue("Equipment", typeof(Equipment));
+            Stats = (EntityStats) info.GetValue("Stats", typeof(EntityStats));
+            facing = (Direction) info.GetValue("Facing", typeof(Direction));
+            Bounds = (EntityBounds) info.GetValue("EBounds", typeof(EntityBounds));
+            State = (EntityState) info.GetValue("State", typeof(EntityState));
+            Properties = (Dictionary<string, bool>) info.GetValue("Props", typeof(Dictionary<string, bool>));
 
             // Init entity in loaded classes
-            stats.setEntity(this);
+            Stats.setEntity(this);
             EBounds.setEntity(this);
-            equipment.setEntity(this);
+            Equipment.setEntity(this);
 
             // Un-saved values
-            gameScreen = (GameScreen) ScreenManager.getScreen(ScreenId.Game);
-            lastHitPart = EntityPart.Body;
-            jumpDelay = attackDelay = showHpTicks = 0;
-            speedMultiplier = MAX_SPEED;
-            drops = new PossibleDrop[0];
-            sprite.setFrame(250, 3);
+            commonEntityInit();
         }
+
+        public Entity(GameScreen screen, Sprite s, int x, int y, int hp, float ap = 1, int xp = 0) : base(screen, s, x, y)  {
+            XPValue = xp;
+            facing = Direction.Right;
+            State = EntityState.Standing;
+
+            Name = RandomName.newName();
+            Properties = new Dictionary<string,bool>();
+            Bounds = new EntityBounds(this, x, y, (int) TileMap.SPRITE_SIZE, 12, 14, 6, 24);
+
+            // Stats
+            Equipment = new Equipment(this);
+            Stats = new EntityStats(this, hp, ap);
+
+            commonEntityInit();
+        }
+
+        private void commonEntityInit() {
+            msVel = new Vector2();
+            speedMultiplier = MAX_SPEED;
+            jumpDelay = attackDelay = showHpTicks = 0;
+
+            Drops = new PossibleDrop[0];
+
+            // Due to a quirk in the code the frame count here must be one more than actual
+            Sprite.setFrame(250, 3);
+            if (!Sprite.hasSpriteParts(SpriteParts.Entity)) {
+                throw new ArgumentException("The sprite passed is not an Entity sprite");
+            }
+
+            this.entityInit();
+        }
+
+        protected virtual void entityInit() { }
 
         public new void GetObjectData(SerializationInfo info, StreamingContext cntxt) {
             base.GetObjectData(info, cntxt);
 
-            info.AddValue("Entity_AI", AI);
-            info.AddValue("Entity_Name", Name);
-            info.AddValue("Entity_Equipment", equipment);
-            info.AddValue("Entity_Stats", stats);
-            info.AddValue("Entity_XPValue", XP_VALUE);
-            info.AddValue("Entity_Facing", facing);
-            info.AddValue("Entity_MaxSpeed", MAX_SPEED);
-            info.AddValue("Entity_MsVel", msVel);
-            info.AddValue("Entity_State", State);
-            info.AddValue("Entity_EBounds", bounds);
-            info.AddValue("Entity_Props", props);
+            info.AddValue("Name", Name);
+            info.AddValue("Equipment", Equipment);
+            info.AddValue("Stats", Stats);
+            info.AddValue("State", State);
+            info.AddValue("Facing", facing);
+            info.AddValue("EBounds", Bounds);
+            info.AddValue("Props", Properties);
         }
 
-        public Entity(GameScreen screen, int x, int y, Sprite s, Func<Entity, TileMap, bool> ai, 
-            int hp=750, double ap=1, int xp=6, float speed=1, PossibleDrop[] pDrops=null, String name=null) : base(s, x, y) 
-        {
-            MAX_SPEED = speedMultiplier = speed;
-            XP_VALUE = xp;
-
-            AI = ai;
-            gameScreen = screen;
-            Name = ((name == null) ? RandomName.newName() : name);
-            bounds = new EntityBounds(this, x, y, (int) TileMap.SPRITE_SIZE, 12, 14, 6, 24);
-            State = EntityState.Standing;
-            msVel = new Vector2(0, 0);
-            facing = Direction.Right;
-            jumpDelay = attackDelay = showHpTicks = 0;
-            props = new Dictionary<string,bool>();
-
-            // Stats
-            equipment = new Equipment(this);
-            stats = new EntityStats(this, hp, (float) ap);
-
-            // Initialize drops, if none given empty array
-            this.drops = (pDrops == null) ? new PossibleDrop[0] : pDrops;
-
-            // Due to a quirk in the code the frame count here must be one more than actual
-            sprite.setFrame(250, 3);
-            if (!sprite.hasSpriteParts(SpriteParts.Entity))
-                throw new ArgumentException("The sprite passed is not an Entity sprite");
+        public virtual bool aiEnabled() {
+            return false;
         }
 
-        protected virtual void runAI(TileMap map) {
-            this.AI(this, map);
-        }
-
-        public override void update(TileMap map, TimeSpan elapsed) {
+        public override void update(TimeSpan elapsed) {
             if (SlatedToRemove) return;
 
             // ### Tick updates
@@ -160,7 +150,7 @@ namespace RPG.Entities
                 showHpTicks -= elapsed.Milliseconds;
 
             // ### Update entity State
-            isOnFloor = map.isRectOnFloor(EBounds, facing, this);
+            isOnFloor = Map.isRectOnFloor(EBounds, facing, this);
 
             if (!Alive) {
                 if (State == EntityState.Dead)
@@ -196,7 +186,7 @@ namespace RPG.Entities
             else
                 speedMultiplier = MAX_SPEED; // Don't overshoot
 
-            moved = moveXWithVelocity(map, currXSpeed);
+            moved = moveXWithVelocity(currXSpeed);
 
             // ### Update Y Position
 
@@ -208,47 +198,44 @@ namespace RPG.Entities
 
             // Subtract so everything else doesn't have to be switched (0 is top)
             EBounds.moveY((int) -getRealYSpeed());
-            if (bounds.Top >= map.getPixelHeight() - bounds.Height / 2) {
+            if (Bounds.Top >= Map.getPixelHeight() - Bounds.Height / 2) {
                 EBounds.moveY((int) getRealYSpeed()); // Undo the move
                 fallWithGravity();
-            } else if (bounds.Bottom <= 0) {
+            } else if (Bounds.Bottom <= 0) {
                 EBounds.moveY((int) getRealYSpeed()); // Undo the move
                 hitGround();
             } else if (getRealYSpeed() > 0) {
-                int newY = map.checkBoundsYUp(bounds, facing);
-                if (newY != bounds.Y) { // Hit something
-                    EBounds.moveY(newY - bounds.Y); // Move down correct amount (+)
+                int newY = Map.checkBoundsYUp(Bounds, facing);
+                if (newY != Bounds.Y) { // Hit something
+                    EBounds.moveY(newY - Bounds.Y); // Move down correct amount (+)
                     fallWithGravity();
                 }
             } else if (getRealYSpeed() < 0) {
-                int newY = map.checkBoundsYDown(bounds, facing);
-                if (newY != bounds.Y) { // Hit something
-                    EBounds.moveY(newY - bounds.Y); // Move up correct amount (-)
+                int newY = Map.checkBoundsYDown(Bounds, facing);
+                if (newY != Bounds.Y) { // Hit something
+                    EBounds.moveY(newY - Bounds.Y); // Move up correct amount (-)
                     hitGround();
                 }
             }
 
             // ### Run the entities customizable AI
-            if (AI != null)
-                AI(this, map);
-            else
-                runAI(map);
+            if (aiEnabled()) AI.run();
         }
 
         // return True if move successful
-        private Boolean moveXWithVelocity(TileMap map, int vel) {
+        private Boolean moveXWithVelocity(int vel) {
             int oldX = EBounds.X;
             EBounds.moveX(vel);
-            if (bounds.Right > map.getPixelWidth()) {
-                EBounds.moveX((map.getPixelWidth() - bounds.Width) - bounds.X);
-            } else if (bounds.Left <= 0) {
-                EBounds.moveX(-bounds.X);
+            if (Bounds.Right > Map.getPixelWidth()) {
+                EBounds.moveX((Map.getPixelWidth() - Bounds.Width) - Bounds.X);
+            } else if (Bounds.Left <= 0) {
+                EBounds.moveX(-Bounds.X);
             } else if (vel > 0) {
-                int newX = map.checkBoundsXRight(bounds, facing);
-                if (!freeMoveForward) updateBoundsX(map, newX);
+                int newX = Map.checkBoundsXRight(Bounds, facing);
+                if (!freeMoveForward) updateBoundsX(newX);
             } else if (vel < 0) {
-                int newX = map.checkBoundsXLeft(bounds, facing);
-                if (!freeMoveForward) updateBoundsX(map, newX);
+                int newX = Map.checkBoundsXLeft(Bounds, facing);
+                if (!freeMoveForward) updateBoundsX(newX);
             }
 
             if (oldX != EBounds.X) {
@@ -258,16 +245,20 @@ namespace RPG.Entities
             }
         }
 
+        public bool shouldFall() {
+            return !isOnFloor && State != EntityState.Jumping;
+        }
+
         private void fallWithGravity() {
             msVel.Y = 0;
             setState(EntityState.Jumping);
         }
 
-        private void updateBoundsX(TileMap map, int newX) {
-            if (!isOnFloor && State != EntityState.Jumping) {
+        private void updateBoundsX(int newX) {
+            if (shouldFall()) {
                 fallWithGravity();
-            } else if (newX != bounds.X) {
-                EBounds.moveX(newX - bounds.X);
+            } else if (newX != Bounds.X) {
+                EBounds.moveX(newX - Bounds.X);
                 // msVel.X = 0;
             }
         }
@@ -285,11 +276,11 @@ namespace RPG.Entities
             setState(EntityState.Standing);
         }
 
-        public Attack attack(TileMap map, EntityPart part, Func<Entity, EntityPart, TileMap, Attack> factoryFunc) {
+        public Attack attack(EntityPart part, Func<Entity, EntityPart, TileMap, Attack> factoryFunc) {
             if (canAttack() && factoryFunc != null) {
-                Attack a = factoryFunc(this, part, map);
+                Attack a = factoryFunc(this, part, Map);
                 if (a != null) {
-                    map.addAttack(a);
+                    Map.addAttack(a);
                     attackDelay = ATTACK_DELAY_MS;
                     return a;
                 }
@@ -303,17 +294,17 @@ namespace RPG.Entities
 
         public void heal(int amnt) {
             if (Alive) {
-                stats.addHp(amnt);
+                Stats.addHp(amnt);
             }
         }
 
         // Return damage if hits wall
-        public int slide(TileMap map, Direction dir) {
+        public int slide(Direction dir) {
             if (dir == Direction.Stopped) {
                 return 0;
             } else {
                 int vel = (dir == Direction.Left ? -2 : 2);
-                if (moveXWithVelocity(map, vel)) {
+                if (moveXWithVelocity(vel)) {
                     return 0;
                 } else {
                     return 1;
@@ -327,14 +318,14 @@ namespace RPG.Entities
 
             int realDmg = 0;
             if (part == EntityPart.Legs)
-                realDmg = (int)(dmg * stats.TLegsMultiplier);
+                realDmg = (int)(dmg * Stats.TLegsMultiplier);
             else if (part == EntityPart.Head)
-                realDmg = (int)(dmg * stats.THeadMultiplier);
+                realDmg = (int)(dmg * Stats.THeadMultiplier);
             else if (part == EntityPart.Body)
-                realDmg = (int) (dmg * stats.TBodyMultiplier);
+                realDmg = (int) (dmg * Stats.TBodyMultiplier);
             realDmg = (int) (realDmg * reducer);
 
-            stats.addHp(-realDmg);
+            Stats.addHp(-realDmg);
             return realDmg;
         }
 
@@ -352,8 +343,8 @@ namespace RPG.Entities
                 setState(EntityState.Crouching);
                 EBounds.duck(); // Resets position
                 setXSpeedPerMs(0);
-                stats.headMultiplier -= 0.1f;
-                stats.legsMultiplier += 0.2f;
+                Stats.headMultiplier -= 0.1f;
+                Stats.legsMultiplier += 0.2f;
             }
         }
 
@@ -363,8 +354,8 @@ namespace RPG.Entities
                 setState(EntityState.Blocking);
                 EBounds.block(facing); // Resets position
                 setXSpeedPerMs(0);
-                stats.bodyMultiplier += 0.5f;
-                stats.headMultiplier += 0.2f;
+                Stats.bodyMultiplier += 0.5f;
+                Stats.headMultiplier += 0.2f;
             }
         }
 
@@ -377,15 +368,15 @@ namespace RPG.Entities
         protected void setState(EntityState State) {
             if (Alive || State == EntityState.Dying || State == EntityState.Dead) {
                 EBounds.resetPositions();  // Resets position
-                stats.resetReducers();
+                Stats.resetReducers();
                 this.State = State;
             }
         }
 
         protected void dropItems() {
-            for (int i=0; i < drops.Length; i++) {
-                if (drops[i].Chance > ScreenManager.Rand.NextDouble())
-                    gameScreen.TileMap.dropItem(drops[i].Item, this);
+            for (int i=0; i < Drops.Length; i++) {
+                if (Drops[i].Chance > ScreenManager.Rand.NextDouble())
+                    Map.dropItem(Drops[i].Item, this);
             }
         }
 
@@ -400,30 +391,29 @@ namespace RPG.Entities
             return State; 
         }
 
-        protected Texture2D getSprite(int elapsed)
-        {
+        protected Texture2D getSprite(int elapsed) {
             EntityState State = getDrawState();
             if (!Alive) { // State == EntityState.Dead || State == EntityState.Dying
-                return sprite.getSpritePart(SpriteParts.Part.Dead);
+                return Sprite.getSpritePart(SpriteParts.Part.Dead);
             } else if (State == EntityState.Crouching) {
-                return sprite.getSpritePart(SpriteParts.Part.Crouch);
+                return Sprite.getSpritePart(SpriteParts.Part.Crouch);
             } else if (State == EntityState.Blocking) {
-                return sprite.getSpritePart(SpriteParts.Part.Block);
+                return Sprite.getSpritePart(SpriteParts.Part.Block);
             } else if (State == EntityState.Moving) {
-                sprite.tick(elapsed);
+                Sprite.tick(elapsed);
 
-                if (sprite.FrameIdx == 0)
-                    return sprite.getSpritePart(SpriteParts.Part.Move);
+                if (Sprite.FrameIdx == 0)
+                    return Sprite.getSpritePart(SpriteParts.Part.Move);
                 else
-                    return sprite.Base;
+                    return Sprite.Base;
             } else if (State == EntityState.Attacking) {
-                return sprite.getSpritePart(SpriteParts.Part.Attack);
+                return Sprite.getSpritePart(SpriteParts.Part.Attack);
             } else if (State == EntityState.AttackCrouch) {
-                return sprite.getSpritePart(SpriteParts.Part.CrouchAttack);
+                return Sprite.getSpritePart(SpriteParts.Part.CrouchAttack);
             } else if (State == EntityState.Jumping) {
-                return sprite.getSpritePart(SpriteParts.Part.Move);
+                return Sprite.getSpritePart(SpriteParts.Part.Move);
             } else {
-                return sprite.Base;
+                return Sprite.Base;
             }
         }
 
@@ -445,7 +435,7 @@ namespace RPG.Entities
                 hpRect.X += (int) (hpRect.Width * 0.125); // Offset and a bit over from the absolute left side
                 hpRect.Y -= 7;
                 hpRect.Height = 3;
-                hpRect.Width = (int) Math.Round(hpRect.Width * 0.75 * stats.HpPercent) + 1;
+                hpRect.Width = (int) Math.Round(hpRect.Width * 0.75 * Stats.HpPercent) + 1;
                 spriteBatch.Draw(ScreenManager.WhiteRect, hpRect, Color.Red);
 
                 Vector2 vect = ScreenManager.Small_Font.MeasureString(Name);
@@ -461,21 +451,19 @@ namespace RPG.Entities
             }
         }
         
-        public EntityBounds EBounds { 
-            get { return (EntityBounds) bounds; } 
-        }
+        public EntityBounds EBounds {  get { return (EntityBounds) Bounds; }  }
         
         protected float getRealXSpeed() { return MathHelp.constrain(msVel.X * tElapsed.Milliseconds, -7, 7); }
         protected float getRealYSpeed() { return MathHelp.constrain(msVel.Y * tElapsed.Milliseconds, -7, 7); }
-        public bool Alive { get { return stats.Hp > 0; } }
+        public bool Alive { get { return Stats.Hp > 0; } }
 
         public float getSpeedX() { return msVel.X; }
         public float getSpeedY() { return msVel.Y; }
         public bool isFacingForward() { return facing != Direction.Left; }
 
         public bool this[string s] {
-            get { return (props.ContainsKey(s)) ? props[s] : false; }
-            set { props[s] = value; }
+            get { return (Properties.ContainsKey(s)) ? Properties[s] : false; }
+            set { Properties[s] = value; }
         }
     }
 }

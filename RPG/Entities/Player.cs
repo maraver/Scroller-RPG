@@ -21,26 +21,30 @@ namespace RPG.Entities
     [Serializable]
     public class Player : Entity, ISerializable {
         public int RoomCount { get; private set; }
-        int lvlXp = 33, xp;
-        List<Attack> aliveSpells;
-        Item[] items;
-        HotBar hotbar;
+        public HotBar HotBar { private set; get; }
 
-        public Player(GameScreen screen, int x, int y, String name, Sprite s) : base(screen, x, y, s, null, 900, 1, 0, 1, null, name) {
+        private int nextLevelXP, xp;
+        private List<Attack> aliveSpells;
+        private Item[] items;
+
+        public Player(GameScreen screen, int x, int y, String name, Sprite s) : base(screen, s, x, y, 900) {
             this.xp = 0;
+            this.nextLevelXP = 33;
+
+            this.Name = name;
             this.RoomCount = 0;
 
-            hotbar = new HotBar();
+            HotBar = new HotBar();
             aliveSpells = new List<Attack>();
             items = new Item[this.inventorySize()];
         }
 
         public Player(SerializationInfo info, StreamingContext cntxt) : base (info, cntxt) {
-            lvlXp = (int) info.GetValue("Player_Lvlxp", typeof(int));
+            nextLevelXP = (int) info.GetValue("Player_Lvlxp", typeof(int));
             xp = (int) info.GetValue("Player_Xp", typeof(int));
             items = (Item[]) info.GetValue("Player_Items", typeof(Item[]));
             RoomCount = (int) info.GetValue("Player_RoomCount", typeof(int));
-            hotbar = (HotBar) info.GetValue("Player_HotBar", typeof(HotBar));
+            HotBar = (HotBar) info.GetValue("Player_HotBar", typeof(HotBar));
 
             // Unsaved stuff
             aliveSpells = new List<Attack>();
@@ -49,11 +53,11 @@ namespace RPG.Entities
         public new void GetObjectData(SerializationInfo info, StreamingContext cntxt) {
             base.GetObjectData(info, cntxt);
 
-            info.AddValue("Player_Lvlxp", lvlXp);
+            info.AddValue("Player_Lvlxp", nextLevelXP);
             info.AddValue("Player_Xp", xp);
             info.AddValue("Player_Items", items);
             info.AddValue("Player_RoomCount", RoomCount);
-            info.AddValue("Player_HotBar", hotbar);
+            info.AddValue("Player_HotBar", HotBar);
         }
 
         public void addXP(int i) {
@@ -61,16 +65,18 @@ namespace RPG.Entities
         }
 
         private static bool AttackXpAdded(Attack a) { return (!a.Alive && !a.HasXP); }
-        protected override void runAI(TileMap map) {
+        public override void update(TimeSpan span) {
+            base.update(span);
+
             foreach (Attack a in aliveSpells) {
                 xp += a.getXP();
             }
 
             // Level up
-            if (xp > lvlXp) {
+            if (xp > nextLevelXP) {
                 xp = 0;
-                lvlXp = (int) (lvlXp * 1.5f);
-                stats.levelUp();
+                nextLevelXP = (int) (nextLevelXP * 1.5f);
+                Stats.levelUp();
             }
 
             aliveSpells.RemoveAll(new Predicate<Attack>(AttackXpAdded));
@@ -78,16 +84,16 @@ namespace RPG.Entities
 
         public override void draw(SpriteBatch spriteBatch, Point offset, TimeSpan elapsed) {
             // Draw hp bar
-            if (stats.Hp > 0) {
+            if (Stats.Hp > 0) {
                 Rectangle hpRect = new Rectangle(2, 2, 100, 16);
-                hpRect.Width = (int) Math.Round(hpRect.Width * stats.HpPercent) + 1;
+                hpRect.Width = (int) Math.Round(hpRect.Width * Stats.HpPercent) + 1;
                 spriteBatch.Draw(ScreenManager.WhiteRect, hpRect, Color.Green);
             } else {
                 spriteBatch.DrawString(ScreenManager.Small_Font, "Dead", new Vector2(12, 0), Color.White);
             }
 
             // Draw level
-            spriteBatch.DrawString(ScreenManager.Small_Font, "Lvl " + stats.Level + " " + Name, new Vector2(105, 0), Color.White);
+            spriteBatch.DrawString(ScreenManager.Small_Font, "Lvl " + Stats.Level + " " + Name, new Vector2(105, 0), Color.White);
 
             // Draw entity
             Rectangle pRect = EBounds.Rect;
@@ -102,11 +108,11 @@ namespace RPG.Entities
             // Draw armour stats
             if (Alive) {
                 // Draw armour
-                equipment.draw(spriteBatch, offset);
+                Equipment.draw(spriteBatch, offset);
            
                 // Draw xp bar
                 Rectangle xpBar = new Rectangle(0, spriteBatch.GraphicsDevice.Viewport.Height - 3,
-                    (int) (xp / (float)lvlXp * spriteBatch.GraphicsDevice.Viewport.Width), 2);
+                    (int) (xp / (float)nextLevelXP * spriteBatch.GraphicsDevice.Viewport.Width), 2);
                 spriteBatch.Draw(ScreenManager.WhiteRect, xpBar, Color.LightBlue);
 
                 Viewport vp = spriteBatch.GraphicsDevice.Viewport;
@@ -124,9 +130,9 @@ namespace RPG.Entities
                     spriteBatch.Draw(img, armourImg, Color.Black);
                 else
                     spriteBatch.Draw(img, armourImg, img.Bounds, Color.Black, 0, Vector2.Zero, SpriteEffects.FlipHorizontally, 0);
-                spriteBatch.DrawString(ScreenManager.Small_Font, stats.THeadMultiplier.ToString("0.0"), new Vector2(vp.Width - 38, 0), Color.White);
-                spriteBatch.DrawString(ScreenManager.Small_Font, stats.TBodyMultiplier.ToString("0.0"), new Vector2(vp.Width - 38, 11), Color.White);
-                spriteBatch.DrawString(ScreenManager.Small_Font, stats.TLegsMultiplier.ToString("0.0"), new Vector2(vp.Width - 38, 22), Color.White);
+                spriteBatch.DrawString(ScreenManager.Small_Font, Stats.THeadMultiplier.ToString("0.0"), new Vector2(vp.Width - 38, 0), Color.White);
+                spriteBatch.DrawString(ScreenManager.Small_Font, Stats.TBodyMultiplier.ToString("0.0"), new Vector2(vp.Width - 38, 11), Color.White);
+                spriteBatch.DrawString(ScreenManager.Small_Font, Stats.TLegsMultiplier.ToString("0.0"), new Vector2(vp.Width - 38, 22), Color.White);
             
                 // Draw hit box
                 if (showHpTicks > HP_BAR_SHOW_MS / 2) {
@@ -236,20 +242,27 @@ namespace RPG.Entities
             // Do any complex removal
             return removeItem(idx);
         }
+
+        public void newMainRoom() {
+            TileMap map = new Tiles.TileMap(40, 6, this.gameScreen, this.gameScreen.TileMap);
+            map.generate(MapType.Hall);
+
+            gameScreen.setRoom(map);
+        }
         
-        public void newMap(TileMap map) {
+        public void moveToNewMap(TileMap map) {
             RoomCount++;
             moveTo(new Vector2(0, TileMap.SPRITE_SIZE * map.getFloor()));
         }
 
         public void moveTo(Vector2 targ) {
-            EBounds.moveX((int) targ.X - bounds.X);
-            EBounds.moveY((int) targ.Y - bounds.Y);
+            EBounds.moveX((int) targ.X - Bounds.X);
+            EBounds.moveY((int) targ.Y - Bounds.Y);
         }
 
         public void doAttack(TileMap map, EntityPart part) {
             if (Alive) {
-                Attack attack = base.attack(map, part, hotbar.getSelected());
+                Attack attack = base.attack(part, HotBar.getSelected());
                 if (attack != null) {
                     aliveSpells.Add(attack);
                 }
@@ -275,10 +288,6 @@ namespace RPG.Entities
 
         public void stand() {
             if (Alive) base.setState(EntityState.Standing);
-        }
-
-        public HotBar getHotBar() {
-            return hotbar;
         }
     }
 }

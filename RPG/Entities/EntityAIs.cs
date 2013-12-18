@@ -14,15 +14,12 @@ namespace RPG.Entities
 {
     public class EntityAIs
     {
+        /*
         public static bool Skeleton_King(Entity e, TileMap map) {
             int r = ScreenManager.Rand.Next(500);
             if (r < 15) {
                 e["run"] = false;
                 e.setXSpeedPerMs(Math.Sign(e.getSpeedX()) * -Entity.SPEED_PER_MS);
-            } else if (!e.moved && e["run"] == true) {
-                // If running and hit wall try to jump over
-                e.jump();
-                e.setXSpeedPerMs(Math.Sign(e.getSpeedX()) * Entity.SPEED_PER_MS);
             } else if (r < 150) {
                 NearEntity nEntity = map.getNearestEntity(e, e.EBounds.Center);
 
@@ -88,23 +85,6 @@ namespace RPG.Entities
 
             return true;
         }
-
-        private static Entity GetClosest(Entity e, TileMap map) {
-            return map.getNearestEntity(e, e.EBounds.Center).Entity;
-        }
-
-        private static void Face(Entity e, Entity targ) {
-            if (targ.EBounds.Center.X > e.EBounds.Center.X)
-                e.setXSpeedPerMs(Entity.SPEED_PER_MS);
-            else
-                e.setXSpeedPerMs(-Entity.SPEED_PER_MS);
-        }
-
-        private static void Run(Entity e, Entity targ) {
-            if (targ.EBounds.Center.X > e.EBounds.Center.X)
-                e.setXSpeedPerMs(-Entity.SPEED_PER_MS);
-            else
-                e.setXSpeedPerMs(Entity.SPEED_PER_MS);
-        }
+         */
     }
 }

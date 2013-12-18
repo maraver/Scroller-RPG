@@ -84,7 +84,7 @@ namespace RPG.Screen {
                     GameScreen game = (GameScreen) ScreenManager.getScreen(ScreenId.Game);
                     BinaryFormatter formatter = new BinaryFormatter();
                     game.Player = (Player) formatter.Deserialize(stream);
-                    game.newMainRoom();
+                    game.Player.newMainRoom();
 
                     stream.Close();
                     

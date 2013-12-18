@@ -44,8 +44,8 @@ namespace RPG.GameObjects
                 x = e.EBounds.Left - width - 1;
             }
             
-            return new Attack(map, e, map.GScreen.SprAttack[AttackSpriteId.Fireball],
-                        new Rectangle(x, y - (height / 2), width, height), (int) (100 * e.stats.AttackPower), speed, 200);
+            return new Attack(map, e, map.gameScreen.SprAttack[AttackSpriteId.Fireball],
+                        new Rectangle(x, y - (height / 2), width, height), (int) (100 * e.Stats.AttackPower), speed, 200);
         }
 
         public static Attack Iceball(Entity e, EntityPart part, TileMap map) {
@@ -63,8 +63,8 @@ namespace RPG.GameObjects
                 x = e.EBounds.Left - width - 1;
             }
             
-            return new Attack(map, e, map.GScreen.SprAttack[AttackSpriteId.Iceball],
-                        new Rectangle(x, y - (height / 2), width, height), (int) (120 * e.stats.AttackPower), speed, 200);
+            return new Attack(map, e, map.gameScreen.SprAttack[AttackSpriteId.Iceball],
+                        new Rectangle(x, y - (height / 2), width, height), (int) (120 * e.Stats.AttackPower), speed, 200);
         }
 
         public static Attack Scurge_Shot(Entity e, EntityPart part, TileMap map) {
@@ -82,8 +82,8 @@ namespace RPG.GameObjects
                 x = e.EBounds.Left - width - 1;
             }
             
-            return new Attack(map, e, map.GScreen.SprAttack[AttackSpriteId.Scurge_Shot], 
-                        new Rectangle(x, y - (height / 2), width, height), (int) (80 * e.stats.AttackPower), speed, 200);
+            return new Attack(map, e, map.gameScreen.SprAttack[AttackSpriteId.Scurge_Shot], 
+                        new Rectangle(x, y - (height / 2), width, height), (int) (80 * e.Stats.AttackPower), speed, 200);
         }
 
         public static Attack Raise_Death(Entity e, EntityPart part, TileMap map) {
@@ -100,8 +100,8 @@ namespace RPG.GameObjects
                 x = e.EBounds.Left - (AttackFactory.RAISE_DEATH_WIDTH * 5);
             }
             
-            return new Attack(map, e, map.GScreen.SprAttack[AttackSpriteId.Raise_Death], 
-                        new Rectangle(x, y - (height / 2), width, height), (int) (80 * e.stats.AttackPower), speed, TileMap.SPRITE_SIZE, false);
+            return new Attack(map, e, map.gameScreen.SprAttack[AttackSpriteId.Raise_Death], 
+                        new Rectangle(x, y - (height / 2), width, height), (int) (80 * e.Stats.AttackPower), speed, TileMap.SPRITE_SIZE, false);
         }
     }
 }

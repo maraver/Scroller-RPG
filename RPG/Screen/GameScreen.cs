@@ -117,7 +117,7 @@ namespace RPG.Screen
             sprEntities.Add(EntitySpriteId.Warrior, new Sprite(Content, "Warrior").loadSpriteParts(SpriteParts.Entity));
             sprEntities.Add(EntitySpriteId.Warlock, new Sprite(Content, "Warlock").loadSpriteParts(SpriteParts.Entity));
             sprEntities.Add(EntitySpriteId.Wraith, new Sprite(Content, "Wraith").loadSpriteParts(SpriteParts.Entity));
-            sprEntities.Add(EntitySpriteId.Skeleton_King, new Sprite(Content, "Skeleton_King").loadSpriteParts(SpriteParts.Entity));
+            sprEntities.Add(EntitySpriteId.SkeletonKing, new Sprite(Content, "Skeleton_King").loadSpriteParts(SpriteParts.Entity));
         }
 
         private void loadAttacks() {
@@ -139,7 +139,8 @@ namespace RPG.Screen
         // Initialize the various game screens and create the player with the inputed name
         public string init(string name) {
             Player = new Player(this, 0, 3 * TileMap.SPRITE_SIZE, name, sprEntities[EntitySpriteId.Warrior]);
-            newMainRoom();
+            Player.newMainRoom();
+
             return name;
         }
 
@@ -153,18 +154,14 @@ namespace RPG.Screen
                 TileMap.update(ScreenManager.TargElapsedTime);
             }
 
-            Player.newMap(map);
+            Player.moveToNewMap(map);
             TileMap.addEntity(Player);
             transitionMs = TRANSITION_MS;
         }
 
-        public void newMainRoom() {
-            setRoom(new TileMap(40, 6, MapType.Hall, this, TileMap));
-        }
-
         public void startOver() {
             Player = new Player(this, 0, 0, Player.Name, SprEntity[EntitySpriteId.Warrior]);
-            newMainRoom();
+            Player.newMainRoom();
         }
 
         public override void Update(GameTime time) {
@@ -270,7 +267,7 @@ namespace RPG.Screen
             HotBar.draw(SpriteBatch);
         }
 
-        private HotBar HotBar { get { return Player.getHotBar(); } }
+        private HotBar HotBar { get { return Player.HotBar; } }
 
         public Dictionary<EntitySpriteId, Sprite> SprEntity { get { return sprEntities; } }
         public Dictionary<AttackSpriteId, Texture2D> SprAttack { get { return sprAttacks; } }

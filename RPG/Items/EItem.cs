@@ -22,7 +22,7 @@ namespace RPG.Items
         public readonly Item Item;
         private readonly int[] drawStacksOffset;
 
-        public EItem(Item item, int x, int y) : base(item.Sprite, x, y, DROP_SIZE, DROP_SIZE) {
+        public EItem(GameScreen screen, Item item, int x, int y) : base(screen, item.Sprite, x, y, DROP_SIZE, DROP_SIZE) {
             Item = item;
             if (Item.Stackable) {
                 drawStacksOffset = new int[Item.Count/12];
@@ -46,14 +46,14 @@ namespace RPG.Items
             Rectangle pRect = Bounds.Rect;
             pRect.Offset(offset);
             pRect.Y += (int) Math.Round(Math.Sin(float_at) * FLOAT_TO);
-            spriteBatch.Draw(sprite.Base, pRect, Color.White);
+            spriteBatch.Draw(Sprite.Base, pRect, Color.White);
 
             // If there are a lot of items in the stack draw a few
             for (int i=0; i<drawStacksOffset.Length; i++) {
                 Rectangle drawStackRect = Bounds.Rect;
                 drawStackRect.X -= offset.X + drawStacksOffset[i];
                 drawStackRect.Y += offset.Y + (int) Math.Round((Math.Sin(float_at + drawStacksOffset[i]) * FLOAT_TO));
-                spriteBatch.Draw(sprite.Base, drawStackRect, Color.White);
+                spriteBatch.Draw(Sprite.Base, drawStackRect, Color.White);
             }
         }
     }

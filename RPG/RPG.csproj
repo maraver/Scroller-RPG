@@ -122,9 +122,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\AI\EntityAI.cs" />
+    <Compile Include="Entities\AI\EntityAIAvoid.cs" />
+    <Compile Include="Entities\AI\EntityAIJump.cs" />
+    <Compile Include="Entities\AI\EntityAIList.cs" />
     <Compile Include="Entities\Equipment.cs" />
     <Compile Include="Entities\EntityAIs.cs" />
-    <Compile Include="Entities\EntityFactory.cs" />
+    <Compile Include="Entities\Mobs\SkeletonKing.cs" />
+    <Compile Include="Entities\Mobs\Warlock.cs" />
+    <Compile Include="Entities\Mobs\Wrath.cs" />
     <Compile Include="GameObjects\HotBar.cs" />
     <Compile Include="GameObjects\NearEntity.cs" />
     <Compile Include="GameObjects\AttackFactory.cs" />
@@ -133,6 +139,7 @@
     <Compile Include="GameObjects\GameObject.cs" />
     <Compile Include="GameObjects\HitText.cs" />
     <Compile Include="Helpers\MathHelp.cs" />
+    <Compile Include="Helpers\ToggleList.cs" />
     <Compile Include="Items\ItemEvents.cs" />
     <Compile Include="Items\ItemId.cs" />
     <Compile Include="Structure\Structure.cs" />

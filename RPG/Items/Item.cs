@@ -56,10 +56,9 @@ namespace RPG.Items
 
         // Serialize
         public Item(SerializationInfo info, StreamingContext cntxt) 
-        : this(GameScreen.Items[(ItemId) info.GetValue("Item_Id", typeof(ItemId))], (string) info.GetValue("Item_Name", typeof(string)))
+            : this(GameScreen.Items[(ItemId) info.GetValue("Item_Id", typeof(ItemId))], (string) info.GetValue("Item_Name", typeof(string)))
         { 
             this.Count = (int) info.GetValue("Item_Count", typeof(int));
-            this.Copy = (bool) info.GetValue("Item_Copy", typeof(bool));
             this.Stackable = (bool) info.GetValue("Item_Stackable", typeof(bool));
         }
 
@@ -67,7 +66,6 @@ namespace RPG.Items
             info.AddValue("Item_Id", Id);
             info.AddValue("Item_Name", Name);
             info.AddValue("Item_Count", Count);
-            info.AddValue("Item_Copy", Copy);
             info.AddValue("Item_Stackable", Stackable);
         }
 
@@ -107,9 +105,7 @@ namespace RPG.Items
         }
 
         public override string ToString() {
-            string str = Name;
-            if (Stackable) str += " (" + Count.ToString() + ")";
-            return str;
+            return Name + (Stackable ? " ("+Count.ToString()+")" : "");
         }
 
         public bool isStackable() {

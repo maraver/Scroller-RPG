@@ -9,6 +9,7 @@ using Microsoft.Xna.Framework.Graphics;
 using RPG.Screen;
 using RPG.Sprites;
 using RPG.Entities;
+using RPG.Entities.Mobs;
 using RPG.Helpers;
 using RPG.Items;
 using RPG.GameObjects;
@@ -21,7 +22,7 @@ namespace RPG.Tiles
     public class TileMap {
         public const int SPRITE_SIZE = 32;
 
-        public readonly GameScreen GScreen;
+        public readonly GameScreen gameScreen;
         public readonly int Width, Height;
         TileBlockList Map;
         
@@ -36,8 +37,8 @@ namespace RPG.Tiles
         List<Attack> Attacks;
         List<HitText> HitTexts;
 
-        public TileMap(int width, int height, MapType type, GameScreen screen, TileMap oldMap) {
-            this.GScreen = screen;
+        public TileMap(int width, int height, GameScreen screen, TileMap oldMap) {
+            this.gameScreen = screen;
             this.Width = width;
             this.Height = height;
             this.OldMap = oldMap;
@@ -51,19 +52,21 @@ namespace RPG.Tiles
             GameObjects = new List<GameObject>();
             Attacks = new List<Attack>();
             HitTexts = new List<HitText>();
+        }
 
+        public void generate(MapType type) {
             Structure structure = new Structure();
             switch (type) {
             case MapType.Ramp: 
-                for (int w = 0; w < width; w++) {
-                    for (int h = 0; h < height; h++) {
-                        if (h == 0 || h == height - 1) {
+                for (int w = 0; w < Width; w++) {
+                    for (int h = 0; h < Height; h++) {
+                        if (h == 0 || h == Height - 1) {
                             Map.Add(TileBlock.STONE_WALL);
-                        } else if (h == height - 2 && w == 3) {
+                        } else if (h == Height - 2 && w == 3) {
                             Map.Add(TileBlock.STAIRS_UP);
-                        } else if (h == height - 2 && w >= 4 && w < width - 3) {
+                        } else if (h == Height - 2 && w >= 4 && w < Width - 3) {
                             Map.Add(TileBlock.STONE_WALL);
-                        } else if (h == height - 2 && w == width - 3) {
+                        } else if (h == Height - 2 && w == Width - 3) {
                             Map.Add(TileBlock.STAIRS_DOWN);
                         } else {
                             Map.Add(TileBlock.NONE);
@@ -72,13 +75,13 @@ namespace RPG.Tiles
                 }
                 break;
             case MapType.Treasure:
-                for (int w = 0; w < width; w++) {
-                    for (int h = 0; h < height; h++) {
-                        if (h == height - 2 && w == 0) {
+                for (int w = 0; w < Width; w++) {
+                    for (int h = 0; h < Height; h++) {
+                        if (h == Height - 2 && w == 0) {
                             Map.Add(TileBlock.IRON_DOOR, TileBlockEvent.MapGoBack);
-                        } else if (h == 0 || h == height - 1) {
+                        } else if (h == 0 || h == Height - 1) {
                             Map.Add(TileBlock.STONE_WALL);
-                        } else if (w > 3 && w < width && h == height - 2 && ScreenManager.Rand.Next(width / 2) == 0) {
+                        } else if (w > 3 && w < Width && h == Height - 2 && ScreenManager.Rand.Next(Width / 2) == 0) {
                             Map.Add(TileBlock.CLOSED_CHEST);
                         } else {
                             Map.Add(TileBlock.NONE);
@@ -88,30 +91,30 @@ namespace RPG.Tiles
                 break;
             case MapType.Hall:
             default: // Hall Way
-                for (int w = 0; w < width; w++)
-                    for (int h = 0; h < height; h++) {
+                for (int w = 0; w < Width; w++)
+                    for (int h = 0; h < Height; h++) {
                         if (structure.placeAt(w, h)) {
                             Map.Add(structure.getTileBlockAt(w, h));
-                        } else if (h == height - 2 && w == 0 && oldMap != null) {
+                        } else if (h == Height - 2 && w == 0 && OldMap != null) {
                             Map.Add(TileBlock.DOOR, TileBlockEvent.MapGoBack);
-                        } else if (h == height - 2 && w == width - 1) {
+                        } else if (h == Height - 2 && w == Width - 1) {
                             Map.Add(TileBlock.DOOR, TileBlockEvent.NewMainRoom);
-                            addRandomEntity(w * SPRITE_SIZE, h * SPRITE_SIZE, screen);
-                        } else if (h == 0 || h == height - 1) {
+                            addRandomEntity(w * SPRITE_SIZE, h * SPRITE_SIZE);
+                        } else if (h == 0 || h == Height - 1) {
                             Map.Add(TileBlock.STONE_WALL);
-                        } else if (w > 3 && w < width - 2 && h == height - 2 && ScreenManager.Rand.Next(20) == 0) {
+                        } else if (w > 3 && w < Width - 2 && h == Height - 2 && ScreenManager.Rand.Next(20) == 0) {
                             Map.Add(TileBlock.STONE2_WALL);
-                        } else if (w > 2 && w < width - 4 && h == height - 2 &&  ScreenManager.Rand.Next(150) == 0) {
+                        } else if (w > 2 && w < Width - 4 && h == Height - 2 &&  ScreenManager.Rand.Next(150) == 0) {
                             Map.Add(structure.start(w, h, StructureId.Ramp));
-                        } else if (w > 2 && h == height - 2 && ScreenManager.Rand.Next(150) == 0) {
+                        } else if (w > 2 && h == Height - 2 && ScreenManager.Rand.Next(150) == 0) {
                             Map.Add(TileBlock.HPPOOL);
-                        } else if (w > 2 && h == height - 2 && ScreenManager.Rand.Next(150) == 0) {
+                        } else if (w > 2 && h == Height - 2 && ScreenManager.Rand.Next(150) == 0) {
                             Map.Add(TileBlock.IRON_DOOR, TileBlockEvent.NewTreasureRoom);
                         } else {
                             Map.Add(TileBlock.NONE);
 
-                            if (h == height - 2 && w > 4 && ScreenManager.Rand.Next(12) == 0)
-                                addRandomEntity(w * SPRITE_SIZE, h * SPRITE_SIZE, screen);
+                            if (h == Height - 2 && w > 4 && ScreenManager.Rand.Next(12) == 0)
+                                addRandomEntity(w * SPRITE_SIZE, h * SPRITE_SIZE);
                         }
                     }
                 break;
@@ -130,7 +133,7 @@ namespace RPG.Tiles
             Attacks.RemoveAll(new Predicate<Attack>(IsAttackAlive));
             
             foreach (Entity e in Entities) {
-                e.update(this, span);
+                e.update(span);
                 
                 // Only add entitys (not players)
                 if (!e.Alive) {
@@ -144,7 +147,7 @@ namespace RPG.Tiles
             }
 
             foreach (GameObject o in GameObjects)
-                o.update(this, span);
+                o.update(span);
             GameObjects.RemoveAll(new Predicate<GameObject>(DoRemoveGameObject));
         }
 
@@ -209,7 +212,7 @@ namespace RPG.Tiles
         }
 
         public NearEntity getNearestEntity(Entity thisEntity, Point tPoint) {
-            Entity nEntity = GScreen.Player;
+            Entity nEntity = gameScreen.Player;
             double dist = MathHelp.getDistanceSq(tPoint, nEntity.Bounds.Center);
             foreach (Entity e in Entities) {
                 if (!e.Alive || e == thisEntity) continue;
@@ -400,15 +403,15 @@ namespace RPG.Tiles
             return (numEntities == DeadEntities.Count);
         }
 
-        public void addRandomEntity(int x, int y, GameScreen screen) {
+        public void addRandomEntity(int x, int y) {
             Entity e;
             int rand = ScreenManager.Rand.Next(500);
             if (rand < 10)
-                e = EntityFactory.Skeleton_King(x, y, screen, 1 + (screen.Player.RoomCount/30f)); // After 30 rooms twice as hard
+                e = new SkeletonKing(gameScreen, x, y, 1 + (gameScreen.Player.RoomCount/30f)); // After 30 rooms twice as hard
             else if (rand < 255)
-                e = EntityFactory.Wraith(x, y, screen, 1 + (screen.Player.RoomCount/30f));
+                e = new Wrath(gameScreen, x, y, 1 + (gameScreen.Player.RoomCount/30f));
             else
-                e = EntityFactory.Warlock(x, y, screen, 1 + (screen.Player.RoomCount/30f));
+                e = new Warlock(gameScreen, x, y,1 + (gameScreen.Player.RoomCount/30f));
                 
             addEntity(e);
         }
@@ -436,7 +439,7 @@ namespace RPG.Tiles
             // Up one from the floor
             b = get(sX, --sY);
 
-            EItem eitem = new EItem(item, sX * TileMap.SPRITE_SIZE + 
+            EItem eitem = new EItem(this.gameScreen, item, sX * TileMap.SPRITE_SIZE + 
                     (TileMap.SPRITE_SIZE/2-EItem.DROP_SIZE/2) + ScreenManager.Rand.Next(-4, 5), e.Bounds.Y);
 
             if (!b.isShared()) {

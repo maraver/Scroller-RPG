@@ -104,31 +104,31 @@ namespace RPG.Screen
                 // Holding an item and clicked not on slot
                 if (heldItem != null && heldItem == oldHeldItem 
                         && oldMouse.LeftButton == ButtonState.Pressed && ms.LeftButton == ButtonState.Released) {
-                    player.gameScreen.TileMap.dropItem(heldItem, player);
+                    player.Map.dropItem(heldItem, player);
                     heldItem = null;
                 }
 
                 Point p = new Point(ms.X, ms.Y);
                 if (helmRect.Contains(p)) {
                     if (player.Alive && oldMouse.RightButton == ButtonState.Pressed && ms.RightButton == ButtonState.Released) {
-                        player.addItem(player.equipment.Head.Item);
-                        player.equipment.setHead(null);
-                    } else if (player.equipment.Head != null) {
-                        hoverOver = new ItemBlock(player.equipment.Head.Item);
+                        player.addItem(player.Equipment.Head.Item);
+                        player.Equipment.setHead(null);
+                    } else if (player.Equipment.Head != null) {
+                        hoverOver = new ItemBlock(player.Equipment.Head.Item);
                     }
                 } else if (bodyRect.Contains(p)) {
                     if (player.Alive && oldMouse.RightButton == ButtonState.Pressed && ms.RightButton == ButtonState.Released) {
-                        player.addItem(player.equipment.Body.Item);
-                        player.equipment.setBody(null);
-                    } else if (player.equipment.Body != null) {
-                        hoverOver = new ItemBlock(player.equipment.Body.Item);
+                        player.addItem(player.Equipment.Body.Item);
+                        player.Equipment.setBody(null);
+                    } else if (player.Equipment.Body != null) {
+                        hoverOver = new ItemBlock(player.Equipment.Body.Item);
                     }
                 } else if (legsRect.Contains(p)) {
                     if (player.Alive && oldMouse.RightButton == ButtonState.Pressed && ms.RightButton == ButtonState.Released) {
-                        player.addItem(player.equipment.Legs.Item);
-                        player.equipment.setLegs(null);
-                    } else if (player.equipment.Legs != null) {
-                        hoverOver = new ItemBlock(player.equipment.Legs.Item);
+                        player.addItem(player.Equipment.Legs.Item);
+                        player.Equipment.setLegs(null);
+                    } else if (player.Equipment.Legs != null) {
+                        hoverOver = new ItemBlock(player.Equipment.Legs.Item);
                     }
                 }
             }
@@ -146,24 +146,24 @@ namespace RPG.Screen
 
             // Draw stats left
             Vector2 pos = new Vector2(110, 25);
-            SpriteBatch.DrawString(ScreenManager.Small_Font, "Hp: " + player.stats.Hp + " (" + (player.stats.HpPercent * 100).ToString("0") + "%)", pos, Color.White);
+            SpriteBatch.DrawString(ScreenManager.Small_Font, "Hp: " + player.Stats.Hp + " (" + (player.Stats.HpPercent * 100).ToString("0") + "%)", pos, Color.White);
             pos.Y += 24;
-            SpriteBatch.DrawString(ScreenManager.Small_Font, player.equipment.Head.ToString(10), pos, Color.White);
+            SpriteBatch.DrawString(ScreenManager.Small_Font, player.Equipment.Head.ToString(10), pos, Color.White);
             pos.Y += 24;
-            SpriteBatch.DrawString(ScreenManager.Small_Font, player.equipment.Body.ToString(10), pos, Color.White);
+            SpriteBatch.DrawString(ScreenManager.Small_Font, player.Equipment.Body.ToString(10), pos, Color.White);
             pos.Y += 24;
-            SpriteBatch.DrawString(ScreenManager.Small_Font, player.equipment.Legs.ToString(10), pos, Color.White);
+            SpriteBatch.DrawString(ScreenManager.Small_Font, player.Equipment.Legs.ToString(10), pos, Color.White);
 
             drawHover(100, 25, 160, 16, "Hit points");
-            String head = player.equipment.Head.ToString(), body = player.equipment.Body.ToString(), legs = player.equipment.Legs.ToString();
+            String head = player.Equipment.Head.ToString(), body = player.Equipment.Body.ToString(), legs = player.Equipment.Legs.ToString();
 
             // Draw armour display
             Rectangle armourRect = new Rectangle(SpriteBatch.GraphicsDevice.Viewport.Width/2 - TileMap.SPRITE_SIZE/2, 
                     SpriteBatch.GraphicsDevice.Viewport.Height/2 - TileMap.SPRITE_SIZE/2, TileMap.SPRITE_SIZE, TileMap.SPRITE_SIZE);
             SpriteBatch.Draw(player.Sprite.Base, armourRect, Color.White);
-            if (player.equipment.Head.Stand != null) SpriteBatch.Draw(player.equipment.Head.Stand, armourRect, Color.White);
-            if (player.equipment.Body.Stand != null) SpriteBatch.Draw(player.equipment.Body.Stand, armourRect, Color.White);
-            if (player.equipment.Legs.Stand != null) SpriteBatch.Draw(player.equipment.Legs.Stand, armourRect, Color.White);
+            if (player.Equipment.Head.Stand != null) SpriteBatch.Draw(player.Equipment.Head.Stand, armourRect, Color.White);
+            if (player.Equipment.Body.Stand != null) SpriteBatch.Draw(player.Equipment.Body.Stand, armourRect, Color.White);
+            if (player.Equipment.Legs.Stand != null) SpriteBatch.Draw(player.Equipment.Legs.Stand, armourRect, Color.White);
 
             // Draw inventory items
             for (int i=0; i<player.inventorySize(); i++) {
@@ -184,13 +184,13 @@ namespace RPG.Screen
 
             // Draw stats right
             pos = new Vector2(380, 25);
-            SpriteBatch.DrawString(ScreenManager.Small_Font, "Att Mult : " + player.stats.AttackPower.ToString("0.00"), pos, Color.White);
+            SpriteBatch.DrawString(ScreenManager.Small_Font, "Att Mult : " + player.Stats.AttackPower.ToString("0.00"), pos, Color.White);
             pos.Y += 24;
-            SpriteBatch.DrawString(ScreenManager.Small_Font, "Head Mult: " + player.stats.THeadMultiplier.ToString("0.00"), pos, Color.White);
+            SpriteBatch.DrawString(ScreenManager.Small_Font, "Head Mult: " + player.Stats.THeadMultiplier.ToString("0.00"), pos, Color.White);
             pos.Y += 24;
-            SpriteBatch.DrawString(ScreenManager.Small_Font, "Body Mult: " + player.stats.TBodyMultiplier.ToString("0.00"), pos, Color.White);
+            SpriteBatch.DrawString(ScreenManager.Small_Font, "Body Mult: " + player.Stats.TBodyMultiplier.ToString("0.00"), pos, Color.White);
             pos.Y += 24;
-            SpriteBatch.DrawString(ScreenManager.Small_Font, "Legs Mult: " + player.stats.TLegsMultiplier.ToString("0.00"), pos, Color.White);
+            SpriteBatch.DrawString(ScreenManager.Small_Font, "Legs Mult: " + player.Stats.TLegsMultiplier.ToString("0.00"), pos, Color.White);
 
             drawHover(370, 25, 160, 16, "Attack power multiplier");
             drawHover(370, 49, 160, 16, "Head damage multiplier");

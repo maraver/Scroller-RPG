@@ -130,11 +130,11 @@ namespace RPG.GameObjects
                                 }
 
                                 int realDmg = e.hitInThe(eHit.Part, dmg, dmgReducer);
-                                realDmg += e.slide(map, eHit.KnockBack);
+                                realDmg += e.slide(eHit.KnockBack);
                                 
                                 map.addHitText(e, realDmg);
                                 if (!e.Alive)
-                                    xp += e.XP_VALUE;
+                                    xp += e.XPValue;
                             }
                             return;
                         }

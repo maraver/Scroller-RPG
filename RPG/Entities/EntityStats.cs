@@ -91,8 +91,8 @@ namespace RPG.Entities
         public float AttackPower { get { return attackPower; } }
         public int Level { get { return level; } }
 
-        public float THeadMultiplier { get { return Entity.BASE_HEAD_MULT * headMultiplier - entity.equipment.Head.Mult; } }
-        public float TBodyMultiplier { get { return Entity.BASE_BODY_MULT * bodyMultiplier - entity.equipment.Body.Mult; } }
-        public float TLegsMultiplier { get { return Entity.BASE_LEGS_MULT * legsMultiplier - entity.equipment.Legs.Mult; } }
+        public float THeadMultiplier { get { return Entity.BASE_HEAD_MULT * headMultiplier - entity.Equipment.Head.Mult; } }
+        public float TBodyMultiplier { get { return Entity.BASE_BODY_MULT * bodyMultiplier - entity.Equipment.Body.Mult; } }
+        public float TLegsMultiplier { get { return Entity.BASE_LEGS_MULT * legsMultiplier - entity.Equipment.Legs.Mult; } }
     }
 }

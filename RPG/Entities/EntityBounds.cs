@@ -94,6 +94,10 @@ namespace RPG.Entities
             legs = new Rectangle(rect.X, rect.Y + HEAD_HEIGHT + BODY_HEIGHT, rect.Width, BODY_HEIGHT);
         }
 
+        public override bool canTerrainSnap() {
+            return entity.shouldFall();
+        }
+
         public void die() {
             // No colliding
             canCollide = false;

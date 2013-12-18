@@ -15,19 +15,20 @@ namespace RPG.Tiles
         public static bool Nothing(GameScreen gs, TileBlock b) { return false; }
 
         public static bool NewMainRoom(GameScreen gs, TileBlock b) {
-            int idx = gs.Player.getItemIndex(ItemId.Key);
-            if (gs.Player.Alive && idx >= 0) {
-                gs.Player.addXP(20);
+            if (gs.Player.Alive) {
+                gs.Player.addXP(10);
                 gs.Player.heal(100);
-                gs.Player.removeItem(idx);
-                gs.newMainRoom();
+                gs.Player.newMainRoom();
             }
             return true;
         }
 
         public static bool NewTreasureRoom(GameScreen gs, TileBlock b) {
             if (gs.Player.Alive) {
-                gs.setRoom(new TileMap(20, 6, MapType.Treasure, gs, gs.TileMap));
+                TileMap map = new TileMap(20, 6, gs, gs.TileMap);
+                map.generate(MapType.Treasure);
+
+                gs.setRoom(map);
             }
             return true;
         }
@@ -37,14 +38,14 @@ namespace RPG.Tiles
                 gs.setRoom(gs.TileMap.OldMap);
                 gs.Player.moveTo(gs.TileMap.LeavePoint);
             } else {
-                gs.newMainRoom();
+                gs.Player.newMainRoom();
             }
             return true;
         }
 
         public static bool WallHeal(GameScreen gs, TileBlock b) {
-            if (gs.Player.stats.HpPercent != 1) {
-                gs.Player.heal((int) (gs.Player.stats.MaxHp * 0.1));
+            if (gs.Player.Stats.HpPercent != 1) {
+                gs.Player.heal((int) (gs.Player.Stats.MaxHp * 0.1));
                 b.setTile(TileBlock.EMPTYMAGIC_WALL);
             }
 

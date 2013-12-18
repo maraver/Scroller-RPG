@@ -43,6 +43,10 @@ namespace RPG.GameObjects
             rect.X += x;
         }
 
+        public virtual bool canTerrainSnap() {
+            return false;
+        }
+
         public int X { get { return rect.X; } }
         public int Y { get { return rect.Y; } }
 

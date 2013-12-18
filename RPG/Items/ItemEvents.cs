@@ -13,8 +13,8 @@ namespace RPG.Items
         public static void NoAction(Player p, Item i) { }
 
         public static void NewRoom(Player p, Item i) { 
-            p.gameScreen.newMainRoom(); 
-            p.removeItem(i); 
+            p.newMainRoom(); 
+            p.removeItem(i);
         }
 
         public static void UseSmallPotion(Player p, Item i) { 
@@ -29,16 +29,16 @@ namespace RPG.Items
                 p.removeItem(i);
                 switch (a.Part) {
                     case ArmourParts.Head:
-                        p.addItem(p.equipment.Head.Item);
-                        p.equipment.setHead(a);
+                        p.addItem(p.Equipment.Head.Item);
+                        p.Equipment.setHead(a);
                         break;
                     case ArmourParts.Body:
-                        p.addItem(p.equipment.Body.Item);
-                        p.equipment.setBody(a);
+                        p.addItem(p.Equipment.Body.Item);
+                        p.Equipment.setBody(a);
                         break;
                     case ArmourParts.Legs:
-                        p.addItem(p.equipment.Legs.Item);
-                        p.equipment.setLegs(a);
+                        p.addItem(p.Equipment.Legs.Item);
+                        p.Equipment.setLegs(a);
                         break;
                 }
             }

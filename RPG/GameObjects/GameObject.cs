@@ -22,41 +22,46 @@ namespace RPG.GameObjects
     {
         public bool SlatedToRemove;
 
-        protected Bounds bounds; // Top Left Tile
-        protected Sprite sprite;
+        protected GameScreen gameScreen;
+
+        public Bounds Bounds { get; protected set; } // Top Left Tile
+        public readonly Sprite Sprite;
         protected bool isOnFloor;
 
-        public GameObject(Texture2D tex, int x, int y, int width=TileMap.SPRITE_SIZE/2, int height=TileMap.SPRITE_SIZE/2) 
-            : this(new Sprite(tex), x, y, width, height) { }
+        public GameObject(GameScreen screen, Texture2D tex, int x, int y, int width=TileMap.SPRITE_SIZE/2, int height=TileMap.SPRITE_SIZE/2) 
+            : this(screen, new Sprite(tex), x, y, width, height) { }
         
-        public GameObject(Sprite s, int x, int y, int width=TileMap.SPRITE_SIZE, int height=TileMap.SPRITE_SIZE) {
-            sprite = s;
-            bounds = new Bounds(x, y, width, height);
+        public GameObject(GameScreen screen, Sprite s, int x, int y, int width=TileMap.SPRITE_SIZE, int height=TileMap.SPRITE_SIZE) {
+            gameScreen = screen;
+            Sprite = s;
+            Bounds = new Bounds(x, y, width, height);
             isOnFloor = true;
         }
 
         public GameObject(SerializationInfo info, StreamingContext cntxt) {
+            gameScreen = (GameScreen) ScreenManager.getScreen(ScreenId.Game);
+
             SlatedToRemove = (bool) info.GetValue("GameObject_SlatedToRemove", typeof(bool));
-            bounds = (Bounds) info.GetValue("GameObject_Bounds", typeof(Bounds));
-            sprite = GameScreen.sprEntities[(EntitySpriteId) info.GetValue("GameObject_EntitySpriteId", typeof(EntitySpriteId))].Clone();
+            Bounds = (Bounds) info.GetValue("GameObject_Bounds", typeof(Bounds));
+            Sprite = GameScreen.sprEntities[(EntitySpriteId) info.GetValue("GameObject_EntitySpriteId", typeof(EntitySpriteId))].Clone();
             isOnFloor = (bool) info.GetValue("GameObject_IsOnFloor", typeof(bool));
         }
 
         public void GetObjectData(SerializationInfo info, StreamingContext cntxt) {
             info.AddValue("GameObject_SlatedToRemove", SlatedToRemove);
-            info.AddValue("GameObject_Bounds", bounds);
+            info.AddValue("GameObject_Bounds", Bounds);
             // TODO support multiple sprites
             info.AddValue("GameObject_EntitySpriteId", EntitySpriteId.Warrior);
             info.AddValue("GameObject_IsOnFloor", isOnFloor);
         }
 
-        public virtual void update(TileMap map, TimeSpan elapsed) {
+        public virtual void update(TimeSpan elapsed) {
             if (SlatedToRemove) return;
 
-            isOnFloor = map.isRectOnFloor(bounds, Direction.Stopped);
+            isOnFloor = Map.isRectOnFloor(Bounds, Direction.Stopped);
 
             if (!isOnFloor)
-                bounds.moveY(2);
+                Bounds.moveY(2);
         }
 
         public virtual void draw(SpriteBatch spriteBatch, Point offset, TimeSpan elapsed) {
@@ -64,11 +69,10 @@ namespace RPG.GameObjects
 
             Rectangle pRect = Bounds.Rect;
             pRect.Offset(offset);
-            spriteBatch.Draw(sprite.Base, pRect, Color.White);
+            spriteBatch.Draw(Sprite.Base, pRect, Color.White);
         }
         
-        public Sprite Sprite { get { return sprite; } }
-        public Bounds Bounds { get { return bounds; } }
-        public Vector2 Location { get { return bounds.Location; } }
+        public Vector2 Location { get { return Bounds.Location; } }
+        public TileMap Map { get { return gameScreen.TileMap; } }
     }
 }
