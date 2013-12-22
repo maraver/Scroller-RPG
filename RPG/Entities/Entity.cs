@@ -197,7 +197,6 @@ namespace RPG.Entities
             }
 
             // Subtract so everything else doesn't have to be switched (0 is top)
-            int oldY = EBounds.Y;
             EBounds.moveY((int) -getRealYSpeed());
             if (Bounds.Top >= Map.getPixelHeight() - Bounds.Height / 2) {
                 EBounds.moveY((int) getRealYSpeed()); // Undo the move
@@ -218,8 +217,6 @@ namespace RPG.Entities
                     hitGround();
                 }
             }
-
-            if (oldY != EBounds.Y) Moved = true;
 
             // ### Run the entities customizable AI
             if (aiEnabled()) AI.run();
