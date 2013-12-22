@@ -126,6 +126,8 @@
     <Compile Include="Entities\AI\EntityAIAvoid.cs" />
     <Compile Include="Entities\AI\EntityAIJump.cs" />
     <Compile Include="Entities\AI\EntityAIList.cs" />
+    <Compile Include="Entities\AI\EntityAIAttack.cs" />
+    <Compile Include="Entities\AI\EntityAIWander.cs" />
     <Compile Include="Entities\Equipment.cs" />
     <Compile Include="Entities\EntityAIs.cs" />
     <Compile Include="Entities\Mobs\SkeletonKing.cs" />

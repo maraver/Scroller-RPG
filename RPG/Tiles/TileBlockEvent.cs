@@ -23,12 +23,12 @@ namespace RPG.Tiles
             return true;
         }
 
-        public static bool NewTreasureRoom(GameScreen gs, TileBlock b) {
-            if (gs.Player.Alive) {
-                TileMap map = new TileMap(20, 6, gs, gs.TileMap);
+        public static bool NewTreasureRoom(GameScreen gameScreen, TileBlock b) {
+            if (gameScreen.Player.Alive) {
+                TileMap map = new TileMap(20, 6, gameScreen, gameScreen.TileMap);
                 map.generate(MapType.Treasure);
 
-                gs.setRoom(map);
+                gameScreen.setRoom(map);
             }
             return true;
         }

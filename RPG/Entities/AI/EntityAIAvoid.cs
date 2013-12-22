@@ -21,29 +21,27 @@ namespace RPG.Entities.AI
         }
 
         public override bool shouldRun() {
-            if (ScreenManager.Rand.NextDouble() < 0.2) {
-                NearEntity targ = Entity.Map.getNearestEntity(Entity, Entity.EBounds.Center);
+            return ScreenManager.Rand.NextDouble() < 0.2;
+        }
 
-                // Too close, run
-                if (targ.Distance < MinDist) {
-                    targetX = (int) targ.Entity.Location.X;
-                    if (targetX > Entity.EBounds.Center.X) {
-                        targetX += ScreenManager.Rand.Next(MinDist - MaxDist) + MinDist;
-                        if (targetX > Entity.Map.Width) targetX = Entity.Map.Width - MaxDist;
+        public override void init() {
+            NearEntity targ = Entity.Map.getNearestEntity(Entity, Entity.EBounds.Center);
 
-                        Entity.setXSpeedPerMs(0.05f);
-                    } else {
-                        targetX -= ScreenManager.Rand.Next(MinDist - MaxDist) + MinDist;
-                        if (targetX < 0) targetX = MaxDist;
+            // Too close, run
+            if (targ.Distance < MinDist) {
+                targetX = (int) targ.Entity.Location.X;
+                if (targetX > Entity.EBounds.Center.X) {
+                    targetX += ScreenManager.Rand.Next(MinDist - MaxDist) + MinDist;
+                    if (targetX > Entity.Map.Width) targetX = Entity.Map.Width - MaxDist;
 
-                        Entity.setXSpeedPerMs(-0.05f);
-                    }
+                    Entity.setXSpeedPerMs(0.05f);
+                } else {
+                    targetX -= ScreenManager.Rand.Next(MinDist - MaxDist) + MinDist;
+                    if (targetX < 0) targetX = MaxDist;
 
-                    return true;
+                    Entity.setXSpeedPerMs(-0.05f);
                 }
             }
-
-            return false;
         }
 
         public override bool continueRunning() {
@@ -52,6 +50,10 @@ namespace RPG.Entities.AI
             } else {
                 return Entity.Location.X > targetX;
             }
+        }
+
+        public override void reset() {
+            Entity.setXSpeedPerMs(0);
         }
     }
 }

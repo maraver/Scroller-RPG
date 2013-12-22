@@ -6,12 +6,10 @@ using System.Text;
 namespace RPG.Entities.AI
 {
     public class EntityAIJump : EntityAI {
-        public EntityAIJump(Entity e) 
-            : base(e, 1) 
-        { }
+        public EntityAIJump(Entity e) : base(e, 1)  { }
 
         public override bool shouldRun() {
-            return !Entity.moved && Entity.State == EntityState.Moving;
+            return !Entity.Moved && Entity.isTryingToMove();
         }
 
         public override void init() {

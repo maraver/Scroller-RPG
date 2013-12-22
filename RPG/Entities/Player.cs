@@ -244,7 +244,7 @@ namespace RPG.Entities
         }
 
         public void newMainRoom() {
-            TileMap map = new Tiles.TileMap(40, 6, this.gameScreen, this.gameScreen.TileMap);
+            TileMap map = new TileMap(40, 6, this.gameScreen, this.gameScreen.TileMap);
             map.generate(MapType.Hall);
 
             gameScreen.setRoom(map);

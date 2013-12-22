@@ -45,6 +45,7 @@ namespace RPG.Entities.AI
             while(next != null) {
                 if ((next.RunMask & runMask) == 0 && next.shouldRun()) {
                     next.init();
+                    AIs.flipInactive();
                     runMask |= next.RunMask;
                 }
 

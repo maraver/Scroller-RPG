@@ -56,7 +56,7 @@ namespace RPG.Entities
         public bool freeMoveForward;
 
         public EntityState State { get; private set; }
-        public bool moved { get; private set; }
+        public bool Moved { get; private set; }
 
         private Direction facing;
         private float speedMultiplier;
@@ -140,7 +140,7 @@ namespace RPG.Entities
             if (SlatedToRemove) return;
 
             // ### Tick updates
-            moved = false;
+            Moved = false;
             tElapsed = elapsed;
             freeMoveForward = false;
 
@@ -186,7 +186,7 @@ namespace RPG.Entities
             else
                 speedMultiplier = MAX_SPEED; // Don't overshoot
 
-            moved = moveXWithVelocity(currXSpeed);
+            Moved = moveXWithVelocity(currXSpeed);
 
             // ### Update Y Position
 
@@ -197,6 +197,7 @@ namespace RPG.Entities
             }
 
             // Subtract so everything else doesn't have to be switched (0 is top)
+            int oldY = EBounds.Y;
             EBounds.moveY((int) -getRealYSpeed());
             if (Bounds.Top >= Map.getPixelHeight() - Bounds.Height / 2) {
                 EBounds.moveY((int) getRealYSpeed()); // Undo the move
@@ -218,6 +219,8 @@ namespace RPG.Entities
                 }
             }
 
+            if (oldY != EBounds.Y) Moved = true;
+
             // ### Run the entities customizable AI
             if (aiEnabled()) AI.run();
         }
@@ -238,11 +241,7 @@ namespace RPG.Entities
                 if (!freeMoveForward) updateBoundsX(newX);
             }
 
-            if (oldX != EBounds.X) {
-                return true;
-            } else {
-                return false;
-            }
+            return (oldX != EBounds.X);
         }
 
         public bool shouldFall() {
@@ -274,6 +273,10 @@ namespace RPG.Entities
             isOnFloor = true;
             msVel.Y = 0;
             setState(EntityState.Standing);
+        }
+
+        public Attack attack(EntityPart part) {
+            return this.attack(part, AttackFactory.Fireball);
         }
 
         public Attack attack(EntityPart part, Func<Entity, EntityPart, TileMap, Attack> factoryFunc) {
@@ -460,6 +463,8 @@ namespace RPG.Entities
         public float getSpeedX() { return msVel.X; }
         public float getSpeedY() { return msVel.Y; }
         public bool isFacingForward() { return facing != Direction.Left; }
+
+        public bool isTryingToMove() { return msVel.X != 0; }
 
         public bool this[string s] {
             get { return (Properties.ContainsKey(s)) ? Properties[s] : false; }

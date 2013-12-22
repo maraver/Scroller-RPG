@@ -7,6 +7,7 @@ using System.Text;
 using RPG.Screen;
 using RPG.Sprites;
 using RPG.Items;
+using RPG.GameObjects;
 using RPG.Entities.AI;
 
 namespace RPG.Entities.Mobs
@@ -27,12 +28,18 @@ namespace RPG.Entities.Mobs
             };
 
             this.AI = new EntityAIList(new EntityAI[] {
-                new EntityAIJump(this)
+                new EntityAIJump(this),
+                new EntityAIWander(this),
+                new EntityAIAttack(this)
             });
         }
 
         public override bool aiEnabled() {
             return true;
+        }
+
+        public Attack attack(EntityPart part) {
+            return this.attack(part, AttackFactory.Scurge_Shot);
         }
     }
 }

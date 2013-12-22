@@ -26,13 +26,12 @@ namespace RPG.Helpers
         }
 
         public T nextActive() {
-            activeIdx += 1;
             while (activeIdx < Length && active[activeIdx] == null) {
                 activeIdx += 1;
             }
 
             if (activeIdx < Length)
-                return active[activeIdx];
+                return active[activeIdx++];
             else
                 return null;
         }
@@ -53,20 +52,19 @@ namespace RPG.Helpers
         }
 
         public T nextInactive() {
-            inactiveIdx += 1;
             while (inactiveIdx < Length && inactive[inactiveIdx] == null) {
                 inactiveIdx += 1;
             }
 
             if (inactiveIdx < Length)
-                return inactive[inactiveIdx];
+                return inactive[inactiveIdx++];
             else
                 return null;
         }
 
         public bool flipInactive() {
             if (inactiveIdx < Length && inactive[inactiveIdx] != null) {
-                active[activeIdx] = inactive[inactiveIdx];
+                active[inactiveIdx] = inactive[inactiveIdx];
                 inactive[inactiveIdx] = null;
 
                 return true;

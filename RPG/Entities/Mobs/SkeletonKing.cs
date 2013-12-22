@@ -33,12 +33,17 @@ namespace RPG.Entities.Mobs
 
             this.AI = new EntityAIList(new EntityAI[] {
                 new EntityAIJump(this),
-                new EntityAIAvoid(this, AttackFactory.RAISE_DEATH_WIDTH * 4, AttackFactory.RAISE_DEATH_WIDTH * 6)
+                new EntityAIAvoid(this, AttackFactory.RAISE_DEATH_WIDTH * 4, AttackFactory.RAISE_DEATH_WIDTH * 6),
+                new EntityAIAttack(this)
             });
         }
 
         public override bool aiEnabled() {
             return true;
+        }
+
+        public Attack attack(EntityPart part) {
+            return this.attack(part, AttackFactory.Raise_Death);
         }
     }
 }
